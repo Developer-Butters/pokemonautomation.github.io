@@ -35,11 +35,13 @@ When filling in the Donuts table, make sure your donut is possible by using a [d
 
 #### Basic Example:
 
-For this target donut, insert the following entry into the donut table:
+For this target donut:
 
 | Donut 1 |
 | - |
 | - Alpha Power (Lv. 3)<br>- Sparkling Power: All Types (Lv. 3)<br>- \[Final power does not matter\] |
+
+Insert the following entry into the donut table:
 
 | Keep Limit | Flavor Power 1 | Level 1 | Flavor Power 2 | Level 2 | Flavor Power 3 | Level 3 |
 | - | - | - | - | - | - | - |
@@ -49,11 +51,13 @@ Note: the order of Flavor Power 1, 2, and 3 does not matter.
 
 #### Advanced Example
 
-To match _any_ of the following donuts, insert the following entries into the donut table:
+To match _any_ of the following donuts:
 
 | Donut 1 | Donut 2 | Donut 3 |
 | - | - | - |
 | - Item Power: Berries (Lv. 3)<br>- Big Haul Power (Lv. 2)<br>- \[Final Power does not matter\] | - Item Power: Berries (Lv. 2)<br>- Big Haul Power (Lv. 3)<br>- \[Final Power does not matter\] | - Big Haul Power (Lv. 3)<br>- Item Power: Berries (Lv. 3)<br>- \[Final Power does not matter\] |
+
+Insert the following entries into the donut table:
 
 | Keep Limit | Flavor Power 1 | Level 1 | Flavor Power 2 | Level 2 | Flavor Power 3 | Level 3 |
 | - | - | - | - | - | - | - |
@@ -69,6 +73,27 @@ In the advanced example, if you immediately find 3 donuts with "Item Power: Berr
 | 2 | Item: Berries | Lv . 3 | Big Haul | Lv. 2 | Any Power | Any |
 | 2 | Item: Berries | Lv . 2 | Big Haul | Lv. 3 | Any Power | Any |
 | 10 | Item: Berries | Lv . 3 | Big Haul | Lv. 3 | Any Power | Any |
+
+#### Basic Item Power Donut Recipes
+
+These recipes can yield Item Power (Lv. 3) and Big Haul Power (Lv. 3)
+
+| Recipe | Stats | Use Case |
+| - | - | - |
+| 8x Hyper Kasib Berry | 3240 Donut Energy<br>+108 Level Boost<br>No 3rd Power | The donut with the highest chance of two Lv. 3 powers but the most expensive.<br><br>Best used when you want a good donut for immediate use |
+| 4x Hyper Kasib Berry<br>4x Hyper Roseli Berry | 3660 Donut Power<br>+114 Level Boost<br>Lv. 1 or Lv. 2 Fresh Power | A lower chance of two Lv. 3 powers but a more balanced price.<br><br>Best used when you want to build up a stockpile of good donuts for later use<br>More efficient in terms of berry usage, better suited for longer sessions |
+| 2x Hyper Roseli Berry<br>4x Hyper Colbur Berry<br>1x Hyper Payapa Berry<br>1x Hyper Coba Berry<br><br>2x Hyper Roseli Berry<br>4x Hyper Colbur Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br><br>2x Hyper Roseli Berry<br>4x Hyper Babiri Berry<br>1x Hyper Payapa Berry<br>1x Hyper Coba Berry | 4050 Donut Energy<br>+111 Level Boost<br>Sour and Fresh Powers<br><br><br>4185 Donut Energy<br>+108 Level Boost<br>Sour and Fresh Powers<br><br><br>4365 Donut Power<br>+108 Level Boost<br>Sour and Bitter Powers<br><br> | Papa Jefé's Kasib-less Rainbow Donuts:<br><br>Best used when trying to use up leftover berries<br>Rainbow donuts have a boost to the level of the resulting flavor powers<br> Less efficient at getting higher powers than the previous recipes but uses up less desirable berries |
+
+#### Basic Sparkling Power Donut Recipes
+
+These recipes can yield Sparkling Power: ??? (Lv. 3) and Alpha/Humungo/Teensy (Lv. 3)
+
+| Recipe | Stats | Use Case |
+| - | - | - |
+| 8x Hyper Tanga Berry | 3600 Donut Energy<br>+84 Level Boost<br>No 3rd Power | The donut with the highest chance of two Lv. 3 powers but the most expensive.<br><br>Best used when you're searching for a specific donut for immediate use |
+| 4x Hyper Tanga Berry<br>4x Hyper Haban Berry | 4020 Donut Power<br>+90 Level Boost<br>Lv. 1 or Lv. 2 Fresh Power | A lower chance of two Lv. 3 powers but a more balanced price.<br><br>Best used when you want to build up a stockpile of good donuts for later use<br>More efficient in terms of berry usage, better suited for longer sessions |
+| 5x Hyper Haban Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br>1x Hyper Chilan Berry<br><br>5x Hyper Haban Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br>1x Hyper Babiri Berry<br><br>5x Hyper Haban Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br>1x Hyper Roseli Berry | 4275 Donut Power<br>+97 Level Boost<br>Sweet and Fresh Powers<br><br><br>4320 Donut Power<br>+97 Level Boost<br>Sweet and Fresh Powers<br><br><br>4230 Donut Power<br>+99 Level Boost<br>Sweet and Fresh Powers<br><br> | Papa Jefé's Tanga-less Rainbow Donuts:<br><br>Best used when trying to use up leftover berries<br>Rainbow donuts have a boost to the level of the resulting flavor powers<br> Less efficient at getting higher powers than the previous recipes but uses up less desirable berries |
+
 
 ## Options
 
@@ -86,7 +111,7 @@ One berry per line. To use a berry more than once, select it in multiple rows.
 
 The program continues resetting and making donuts until this many donuts matching the specified powers are kept.
 
-This takes precedent over the limits specified in the Donuts Table.
+The program will stop when this many donuts are kept or all limits in the table are reached, whichever happens first.
 
 Make sure you have enough berries to make this many donuts. The program will fail when not given enough berries.
 
@@ -95,6 +120,10 @@ Make sure you have enough berries to make this many donuts. The program will fai
 The program will check the powers of a made donut and compare the powers to each row in the table.
 
 A keep limit can be set for each donut. Make sure you have enough berries to make this many donuts!
+
+A single donut can match and count towards the limit of multiple entries in the table.
+
+The order in which you list Flavor Powers 1, 2, and 3 does not matter.
 
 Note: "All Types" means the All Types power in-game. "*" means match any type for the specified power.
 
