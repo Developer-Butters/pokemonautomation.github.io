@@ -9,6 +9,7 @@ Reset gift Pokémon for desired stats.
 1. AZ's Floette <img src="images/StatsReset-AzFloette-Match.jpg">
 2. Magearna <img src="images/StatsReset-Magearna-Match.jpg">
 3. Meltan <img src="images/StatsReset-Meltan-Match.jpg">
+4. Melmetal <img src="images/StatsReset-Melmetal-Match.jpg">
 
 **DISCLAIMER:** This program utilizes the backup saves to reset for Pokémon stats and often requires long setup, make sure you fully understand what you need to do before starting the program.
 
@@ -55,6 +56,13 @@ Reset gift Pokémon for desired stats.
 4. Fly to any Pokémon Center and place a new backup save by healing.
 5. Start the program in game. **DISCLAIMER:** While Meltan has a decent catch rate when knocked out you should still expect over half of the catches to fail. The program does not consume balls so with enough patience it is theortically possibly to get the Meltan in a rare ball with the desired IVs.
 
+**Preparation for Melmetal:**
+
+1. Having a burner 0 star donut on the bottom-most slot ready to be consumed (any 3 store berries will do). <img src="images/StatsReset-Melmetal-Donut.png">
+2. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
+3. Fly to any Pokémon Center and place a new backup save by healing.
+4. Start the program in game.
+
 ### Program Settings
 
 ### Go Home when Done:
@@ -69,12 +77,12 @@ Set this to the language of your game. This is **REQUIRED** for text recognition
 
 The Pokémon you are resetting for.
 
-### Pokéball Right-Scrolls
+### Pokéball Right-Scrolls (if Pokémon requires catching)
 
 Scoll this many balls to the right. Negative will scroll to the left.
 Keep in mind that each time you reset the game, the ball order will be reset to their natural order. Sorting by favorites does not persist across saves!
 
-### Scoll Hold, Scroll Release, Post-Throw Wait
+### Scoll Hold, Scroll Release, Post-Throw Wait (if Pokémon requires catching)
 
 These are timing parameters. You should not need to adjust these.
 
