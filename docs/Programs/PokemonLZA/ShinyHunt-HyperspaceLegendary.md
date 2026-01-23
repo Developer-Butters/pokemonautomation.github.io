@@ -8,6 +8,8 @@ Shiny huntable legendary Pokémon are Latias, Latios, Cobalion, Terrakion, and V
 
 Shiny odds for the legendaries are affected by the Shiny Charm and Sparkling Power donuts but the size and IVs are fixed.
 
+<img src="images/ShinyHunt-HyperspaceLegendary-TerrakionShiny.jpg">
+
 ### Setup of Settings
 
 **Switch Settings:**
