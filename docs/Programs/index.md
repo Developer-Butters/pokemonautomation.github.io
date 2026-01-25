@@ -9,9 +9,9 @@ This is a list of all the computer-control programs. To run these programs, you 
 - [Pokémon Let's Go Pikachu/Eevee](#pokemon-lets-go-pikachueevee-lgpe)
 - [Pokémon Sword/Shield](#pokemon-swordshield)
 - [Pokémon Brilliant Diamond/Shining Pearl](#pokemon-brilliant-diamondshining-pearl)
-- [Pokémon Legends Arceus](#pokemon-legends-arceus)
+- [Pokémon Legends: Arceus](#pokemon-legends-arceus)
 - [Pokémon Scarlet/Violet](#pokemon-scarlet-and-violet)
-- [Pokémon Legends ZA](#pokemon-legends-za)
+- [Pokémon Legends: Z-A](#pokemon-legends-z-a)
 - [Zelda: Tears of the Kingdom](#zelda-tears-of-the-kingdom)
 
 **Notes:**
@@ -201,7 +201,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 
 
 
-## Pokémon Legends Arceus
+## Pokémon Legends: Arceus
 
 | **Program** | **Feedback** | **Controllers** |
 | --- | --- | --- |
@@ -311,7 +311,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 
 
 
-## Pokémon Legends ZA
+## Pokémon Legends: Z-A
 
 See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md)
 
@@ -338,11 +338,15 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 | [Wigglytuff Farmer](PokemonLZA/WigglytuffFarmer.md) {.nowrap}                   | Farm the Rich Boy's Wigglytuff for exp and money.      | Video         | All |
 ||
 | **Shiny Hunting:** |
-| [Bench Sit](PokemonLZA/ShinyHunt-BenchSit.md) {.nowrap}                      | Shiny hunt using the bench reset method.               | Video + Audio | All |
-| [Overworld Reset](PokemonLZA/ShinyHunt-OverworldReset.md) {.nowrap}          | Shiny hunt using the overworld reset method.           | Video + Audio | All |
-| [Wild Zone Entrance](PokemonLZA/ShinyHunt-WildZoneEntrance.md) {.nowrap}     | Shiny hunt at wild zone entrance using fast travel method. | Video + Audio | All |
-| [Auto Fossil](PokemonLZA/AutoFossil.md) {.nowrap}                            | Find shiny or alpha fossil Pokémon, by repeatedly reviving fossils. | Video         | All |
-| [Sewer Hunter](PokemonLZA/ShinyHunt-SewerHunter.md) {.nowrap}                | Shiny hunt the sewers.                                 | Video + Audio | All |
+| [Auto Fossil](PokemonLZA/AutoFossil.md) {.nowrap}                            | Find shiny or alpha fossil Pokémon by reviving fossils. | Video         | All |
+| [Bench Sit](PokemonLZA/ShinyHunt-BenchSit.md) {.nowrap}                      | Shiny hunt using the bench reset method.                | Video + Audio | All |
+| [Overworld Reset](PokemonLZA/ShinyHunt-OverworldReset.md) {.nowrap}          | Shiny hunt using the overworld reset method.            | Video + Audio | All |
+| [Wild Zone Entrance](PokemonLZA/ShinyHunt-WildZoneEntrance.md) {.nowrap}     | Shiny hunt in wild zones using fast travel.             | Video + Audio | All |
+| [Wild Zone Café](PokemonLZA/ShinyHunt-WildZoneCafe.md) {.nowrap}             | Shiny hunt at two wild zone cafés using fast travel.    | Video + Audio | All |
+| [Fly Spot Reset](PokemonLZA/ShinyHunt-FlySpotReset.md) {.nowrap}             | Shiny hunt outside wildzones using fast travel.         | Video + Audio | All |
+| [Sewer Hunter](PokemonLZA/ShinyHunt-SewerHunter.md) {.nowrap}                | Shiny hunt the sewers.                                  | Video + Audio | All |
+| [Helioptile Hunter](PokemonLZA/ShinyHunt-HelioptileHunter.md) {.nowrap}      | Shiny hunt Helioptile in Wild Zone 14.                  | Video + Audio | All |
+| [Hyperspace Legendary (Beta)](PokemonLZA/ShinyHunt-HyperspaceLegendary.md) {.nowrap}| Shiny hunt six legendary Pokémon in their Hyperspace Wild Zones. | Video + Audio | All |
 ||
 | **Non-Shiny Hunting:** |
 | [Stats Reset](PokemonLZA/StatsReset.md) {.nowrap}                            | Reset for stats on gift Pokémon like Eternal Flower Floette. | Video         | All |

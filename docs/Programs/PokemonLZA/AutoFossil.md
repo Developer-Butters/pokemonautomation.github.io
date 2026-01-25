@@ -2,7 +2,8 @@
 
 ## Program Description
 
-Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking them in box.
+Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking them in box. Note it is very slow to hunt shiny alpha fossil Pokémon this way.
+Mega Dimension DLC gives a faster method for shiny hunting them via Hyperspace Wild Zones.
 
 
 <img src="images/AutoFossil.jpg">

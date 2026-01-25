@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Purchase berries or mints from stalls.
+Purchase berries (before game version 2.0.1) or mints from stalls in bulk. After 2.0.1 the games allow bulk berry purchases.
 
 
 ### Setup of Settings
