@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Make donuts and reset until a donut with the desired flavor powers is found.
+Make, reset, and keep donuts with the desired flavor powers.
 
 <img src="images/DonutMaker.png">
 
@@ -28,35 +28,72 @@ Make donuts and reset until a donut with the desired flavor powers is found.
 
 ### Instructions
 
-1. Fly to Vert Pokemon Center and heal your team to create a backup save at that location.
-2. Start the program.
+1. Start the program in the overworld.
 
-### Notes and Example
-When filling in the Flavor Powers table, make sure your donut is possible by using a [donut calculator](https://rotomlabs.net/legends-z-a/donut-maker) first.
+### Notes and Examples
+When filling in the Donuts table, make sure your donut is possible by using a [donut calculator](https://rotomlabs.net/legends-z-a/donut-maker) first.
 
-Setup Example:
+#### Basic Example:
 
-The target donut is:
+For this target donut:
 
-- Big Haul Power (Lv. 2)
-- Item Power: Berries (Lv. 3)
-- No Power/Power does not matter
+| Donut 1 |
+| - |
+| - Alpha Power (Lv. 3)<br>- Sparkling Power: All Types (Lv. 3)<br>- \[Final power does not matter\] |
 
-Number of Powers to Match is set to 2, because only two powers are targeted.
+Insert the following entry into the donut table:
 
-The Flavor Powers table has the following set:
+| Keep Limit | Flavor Power 1 | Level 1 | Flavor Power 2 | Level 2 | Flavor Power 3 | Level 3 |
+| - | - | - | - | - | - | - |
+| 1 | Sparkling: All Types | Lv . 3 | Alpha Power | Lv. 3 | Any Power | Any |
 
-- Big Haul Lv. 2
-- Big Haul Lv. 3
-- Berry Lv. 3
+Note: the order of Flavor Power 1, 2, and 3 does not matter.
 
-With this setup, the program will match any donut with Big Haul 2 or 3, but will only match Berry 3. So the following donuts would all match under these settings:
+#### Advanced Example
 
-- Big Haul Lv. 2, Berry Lv. 3
-- Big Haul Lv. 3, Berry Lv. 3
-- Big Haul Lv. 2, Berry Lv. 3, Alpha Power Lv. 1
+To match _any_ of the following donuts:
 
-Make sure not to leave unnecessary powers on the table. If the Flavor Power table above had Alpha Power Lv. 1 on it, a dount with Big Haul Lv. 2, Alpha Power Lv. 1, Item Power: Coins Lv. 1 would count as a match, as there would be 2 successful hits (Number of Powers to Match) on the table.
+| Donut 1 | Donut 2 | Donut 3 |
+| - | - | - |
+| - Item Power: Berries (Lv. 3)<br>- Big Haul Power (Lv. 2)<br>- \[Final Power does not matter\] | - Item Power: Berries (Lv. 2)<br>- Big Haul Power (Lv. 3)<br>- \[Final Power does not matter\] | - Big Haul Power (Lv. 3)<br>- Item Power: Berries (Lv. 3)<br>- \[Final Power does not matter\] |
+
+Insert the following entries into the donut table:
+
+| Keep Limit | Flavor Power 1 | Level 1 | Flavor Power 2 | Level 2 | Flavor Power 3 | Level 3 |
+| - | - | - | - | - | - | - |
+| 3 | Item: Berries | Lv . 3 | Big Haul | Lv. 2 or 3 | Any Power | Any |
+| 3 | Item: Berries | Lv . 2 or 3 | Big Haul | Lv. 2 | Any Power | Any |
+
+**Important note**: A single donut can count towards the limit of multiple entries in the table. If you're using the inclusive "Lv. 2 or 3" setting, be aware that either Lv. 2 or Lv. 3 will count towards the limit.
+
+In the advanced example, if you immediately find 3 donuts with "Item Power: Berries (Lv. 3)" and "Big Haul (Lv. 3)", all limits will be fulfilled and the program will stop. If you need finer control over the limits, specify the exact level and list each combination individually in the table.
+
+| Keep Limit | Flavor Power 1 | Level 1 | Flavor Power 2 | Level 2 | Flavor Power 3 | Level 3 |
+| - | - | - | - | - | - | - |
+| 2 | Item: Berries | Lv . 3 | Big Haul | Lv. 2 | Any Power | Any |
+| 2 | Item: Berries | Lv . 2 | Big Haul | Lv. 3 | Any Power | Any |
+| 10 | Item: Berries | Lv . 3 | Big Haul | Lv. 3 | Any Power | Any |
+
+#### Basic Item Power Donut Recipes
+
+These recipes can yield Item Power (Lv. 3) and Big Haul Power (Lv. 3)
+
+| Recipe | Stats | Use Case |
+| - | - | - |
+| 8x Hyper Kasib Berry | 3240 Donut Energy<br>+108 Level Boost<br>No 3rd Power | The donut with the highest chance of two Lv. 3 powers but the most expensive.<br><br>Best used when you want a good donut for immediate use |
+| 4x Hyper Kasib Berry<br>4x Hyper Roseli Berry | 3660 Donut Power<br>+114 Level Boost<br>Lv. 1 or Lv. 2 Spicy Power | A lower chance of two Lv. 3 powers but a more balanced price.<br><br>Best used when you want to build up a stockpile of good donuts for later use<br>More efficient in terms of berry usage, better suited for longer sessions |
+| 2x Hyper Roseli Berry<br>4x Hyper Colbur Berry<br>1x Hyper Payapa Berry<br>1x Hyper Coba Berry<br><br>2x Hyper Roseli Berry<br>4x Hyper Colbur Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br><br>2x Hyper Roseli Berry<br>4x Hyper Babiri Berry<br>1x Hyper Payapa Berry<br>1x Hyper Coba Berry | 4050 Donut Energy<br>+111 Level Boost<br>Sour and Fresh Powers<br><br><br>4185 Donut Energy<br>+108 Level Boost<br>Sour and Fresh Powers<br><br><br>4365 Donut Power<br>+108 Level Boost<br>Sour and Bitter Powers<br><br> | Papa Jefé's Kasib-less Rainbow Donuts:<br><br>Best used when trying to use up leftover berries<br>Rainbow donuts have a boost to the level of the resulting flavor powers<br> Less efficient at getting higher powers than the previous recipes but uses up less desirable berries |
+
+#### Basic Sparkling Power Donut Recipes
+
+These recipes can yield Sparkling Power: ??? (Lv. 3) and Alpha/Humungo/Teensy (Lv. 3)
+
+| Recipe | Stats | Use Case |
+| - | - | - |
+| 8x Hyper Tanga Berry | 3600 Donut Energy<br>+84 Level Boost<br>No 3rd Power | The donut with the highest chance of two Lv. 3 powers but the most expensive.<br><br>Best used when you're searching for a specific donut for immediate use |
+| 4x Hyper Tanga Berry<br>4x Hyper Haban Berry | 4020 Donut Power<br>+90 Level Boost<br>Lv. 1 or Lv. 2 Fresh Power | A lower chance of two Lv. 3 powers but a more balanced price.<br><br>Best used when you want to build up a stockpile of good donuts for later use<br>More efficient in terms of berry usage, better suited for longer sessions |
+| 5x Hyper Haban Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br>1x Hyper Chilan Berry<br><br>5x Hyper Haban Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br>1x Hyper Babiri Berry<br><br>5x Hyper Haban Berry<br>1x Hyper Payapa Berry<br>1x Hyper Charti Berry<br>1x Hyper Roseli Berry | 4275 Donut Power<br>+97 Level Boost<br>Sweet and Fresh Powers<br><br><br>4320 Donut Power<br>+97 Level Boost<br>Sweet and Fresh Powers<br><br><br>4230 Donut Power<br>+99 Level Boost<br>Sweet and Fresh Powers<br><br> | Papa Jefé's Tanga-less Rainbow Donuts:<br><br>Best used when trying to use up leftover berries<br>Rainbow donuts have a boost to the level of the resulting flavor powers<br> Less efficient at getting higher powers than the previous recipes but uses up less desirable berries |
+
 
 ## Options
 
@@ -70,18 +107,25 @@ The berries that will be used to make the donut. Must enter a minimum of three b
 
 One berry per line. To use a berry more than once, select it in multiple rows.
 
-### Number of Powers to Match:
+### Number of Donuts to Keep:
 
-How many of a created donut's powers must be in the the table below (number of hits). Minimum one, maximum three.
+The program continues resetting and making donuts until this many donuts matching the specified powers are kept.
 
-### Number of Donuts:
+The program will stop when this many donuts are kept or all limits in the table are reached, whichever happens first.
 
-The program continues resetting and making donuts of required powers until this many donuts of required powers are made.
 Make sure you have enough berries to make this many donuts. The program will fail when not given enough berries.
 
-### Flavor Powers Table:
+### Donuts Table:
 
-Add your desired flavor powers to this table. Note that "All Types" means the all types power in-game. If you want all Pokemon types, they will all have to be added individually.
+The program will check the powers of a made donut and compare the powers to each row in the table.
+
+A keep limit can be set for each donut. Make sure you have enough berries to make this many donuts!
+
+A single donut can match and count towards the limit of multiple entries in the table.
+
+The order in which you list Flavor Powers 1, 2, and 3 does not matter.
+
+Note: "All Types" means the All Types power in-game. "*" means match any type for the specified power.
 
 ### Go Home when Done:
 
@@ -89,7 +133,7 @@ Go to the Switch Home to idle when finished.
 
 ## Credits
 
-- **Authors:** Gin, kichithewolf
+- **Authors:** Gin, kichithewolf, Gimikyu
 
 
 <hr>
