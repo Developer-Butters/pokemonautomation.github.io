@@ -346,7 +346,7 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 | [Fly Spot Reset](PokemonLZA/ShinyHunt-FlySpotReset.md) {.nowrap}             | Shiny hunt outside wildzones using fast travel.         | Video + Audio | All |
 | [Sewer Hunter](PokemonLZA/ShinyHunt-SewerHunter.md) {.nowrap}                | Shiny hunt the sewers.                                  | Video + Audio | All |
 | [Helioptile Hunter](PokemonLZA/ShinyHunt-HelioptileHunter.md) {.nowrap}      | Shiny hunt Helioptile in Wild Zone 14.                  | Video + Audio | All |
-| [Hyperspace Legendary (Beta)](PokemonLZA/ShinyHunt-HyperspaceLegendary.md) {.nowrap}| Shiny hunt six legendary Pokémon in their Hyperspace Wild Zones. | Video + Audio | All |
+| [Hyperspace Legendary](PokemonLZA/ShinyHunt-HyperspaceLegendary.md) {.nowrap}| Shiny hunt five legendary Pokémon in their Hyperspace Wild Zones. | Video + Audio | All |
 ||
 | **Non-Shiny Hunting:** |
 | [Stats Reset](PokemonLZA/StatsReset.md) {.nowrap}                            | Reset for stats on gift Pokémon like Eternal Flower Floette. | Video         | All |
