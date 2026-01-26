@@ -1,4 +1,4 @@
-# Shiny Hunt - Hyperspace Legendary (Beta Testing, Not Released Yet)
+# Shiny Hunt - Hyperspace Legendary
 
 ## Program Description
 
@@ -95,7 +95,9 @@ When a shiny is detected, wait this long before you take a screenshot and record
 
 Which Legendary you are hunting.
 
-### Minimum Cal. Reserved to Catch Legendary (Does not apply to Latios)
+Shuttle Run methods run back a forth to continuously respawn the legendary. Game Reset methods soft-reset the legendary by restarting the game until a shiny is found.
+
+### Minimum Cal. Reserved to Catch Legendary (Only applies to Shuttle Run methods)
 
 Minimum amount of calories you need to catch the legendary after the program find it shiny. It burns 10 calories per second in those 5-star legendary Hyperspace Wild Zones.
 
