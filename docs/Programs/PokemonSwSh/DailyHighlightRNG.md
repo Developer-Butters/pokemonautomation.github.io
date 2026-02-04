@@ -33,9 +33,10 @@ The success rate for each manipulated highlight is around 80%.
 1. The Snowslide Slope fly spot must be unlocked.
 2. You have talked to the Watt Trader before.
 3. Your lead Pokémon must be a non-shiny Orbeetle.
-4. Fly to the Snowslide Slope.
-5. Close the menu if it is open.
-6. Start the program in-game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
+4. Don't ride the bike.
+5. Fly to the Snowslide Slope.
+6. Close the menu if it is open.
+7. Start the program in-game or the [Change Grip/Order Menu](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md) depending on which option you choose.
 
 ## Options
 
@@ -43,7 +44,7 @@ The success rate for each manipulated highlight is around 80%.
 
 The number of Daily Highlights you want the program to manipulate and buy. 
 Keep in mind not all manipulations are successful. 
-The program will keep running even if you have not enough Watts left.
+The program will keep running even if you don't have enough Watts left.
 If this option is set to zero the program will continue running until it is stopped manually.
 
 
@@ -70,6 +71,7 @@ The selection of items you want the program to get.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
