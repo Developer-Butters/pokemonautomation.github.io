@@ -109,15 +109,17 @@ Main Page: [FAQ](FAQ.md)
 - [Kuroneko (mysticial)](https://github.com/Mysticial) - Project founder.
 - [Gin (gin2531)](https://github.com/Gin890) - R&D, Program+Framework development, Qt6, audio, and Mac support.
 - [pifopi (pifopi)](https://github.com/pifopi) - R&D, AutoMaxlair, Program+Framework Development.
-- [MrDonders (conkelders)](https://github.com/ercdndrs) - R&D, AutoMaxlair, pioneer of serial hardware.
-- [denvoros (denvoros)](https://github.com/denvoros) - AI R&D, AutoMaxlair, Build scripts, Mac support.
+- [MrDonders (conkelders)](https://github.com/ercdndrs) - R&D, AutoMaxLair, pioneer of serial hardware.
+- [denvoros (denvoros)](https://github.com/denvoros) - AI R&D, AutoMaxLair, Build scripts, Mac support.
 - [jw (jw2219)](https://github.com/jw098) - R&D, controllers, Program Development.
 - [kichithewolf (kichithewolf)](https://github.com/kichithewolf) - R&D, Program Development.
+- [Koi (koiffeinated)](https://github.com/Koi-3088) - Discord bot integration, CI, sys-botbase support.
+- [Gimikyu (gimikyu_)](https://github.com/Ericzklm) - Mac support, Program development.
 - [SakuraKim (sakurakim9422)](https://github.com/SakuraKimAce) - R&D, Program+Framework Development.
-- [Koi (koiffeinated)](https://github.com/Koi-3088) - Discord bot integration.
 - [Fye (fyelice)](https://github.com/fyex) - Program Development
 - [Nymphea (aozawa)](https://github.com/NympheaR) - Program Contributor
 - [Icaroto (icaroto)](https://github.com/PhobosLegacy) - Program Contributor
+- [Saber (_tehanu)](https://github.com/naussika) - Program Contributor
 - [Ryder (_ryder)](https://github.com/Ensamma) - Documentation and wiki management.
 - [baboul (baboul29)](https://github.com/mb-baboul) - Program Contributor
 - [joyrida (joyrida)](https://github.com/RickyGrassmuck) - Build scripts and Mac support.
@@ -146,6 +148,7 @@ Do not try to profit from these programs. It's just a game; keep the money out o
 For all other uses, please reach out to the administrators of the Pokémon Automation discord server.
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
+
 
 
 
