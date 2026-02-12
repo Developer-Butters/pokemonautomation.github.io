@@ -36,28 +36,29 @@ Catch/receive Pokémon for desired stats.
 1. Have full boxes and party slots, you can verify this if you can no longer throw balls at wild Pokémon. <img src="images/StatsReset-AzFloette-FullParty1.jpg">
 2. Proceed with the 15th reward battle against the rival, enter Quasartico Inc. for the first half of the dialog until your rival tries to give you AZ's Floette but can't due to the full box slots. <img src="images/StatsReset-AzFloette-FullParty2.jpg">
 3. **(No longer required after 0.62)** Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. <img src="images/StatsReset-AzFloette-FlySpot.jpg">
-4. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
+4. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu. Have full party slots.
 5. Start the program in game.
 
 **Preparation for Magearna:**
 
-1. Start the Side Mission until asked for the 999 Mega Shards, then prepare the 999 Mega Shards ready to complete the Side Mission.
-2. **(No longer required after 0.62)** Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. (Refer to the image in step 3 of the Floette setup if needed)
-3. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
-4. Start the program in game.
+1. Have the 999 Mega Shards to complete the Side Mission.
+2. Fly to Quasartico Inc and talk to Jett to start the "Restarting Magearna" quest.
+3. **(No longer required after 0.62)** Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) places the cursor right above the Quasartico Inc. fly spot. (Refer to the image in step 3 of the Floette setup if needed)
+4. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu. Have full party slots.
+5. Start the program in game.
 
 **Preparation for Meltan:**
 
-1. Having defeated the Meltan at least once to be able to skip most of the initial sequence.
-2. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
+1. Defeat the Meltan at least once to be able to skip most of the initial sequence.
+2. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu. Have full party slots.
 3. Have a lead Pokémon that knows a move that can OHKO (such as Earthquake) the Meltan and place that move on the right slot (button A).
 4. Set the scrolls to the desired ball for catching in the options.
 5. Start the program in game. **DISCLAIMER:** While Meltan has a decent catch rate when knocked out you should still expect over half of the catches to fail. The program does not consume balls so with enough patience it is theortically possibly to get the Meltan in a rare ball with the desired IVs.
 
 **Preparation for Melmetal:**
 
-1. Having a burner 0 star donut ready to be consumed (any 3 store berries will do). <img src="images/StatsReset-Melmetal-Donut.png"> Set Donut Down Scrolls in settings so it scrolls to the burner donut. (Defaults to the last donut pre 0.62)
-2. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
+1. Have a burner 0 star donut ready to be consumed (any 3 store berries will do). <img src="images/StatsReset-Melmetal-Donut.png"> Set Donut Down Scrolls in settings so it scrolls to the burner donut. (Defaults to the last donut pre 0.62)
+2. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu. Have full party slots.
 3. Start the program in game.
 
 **Preparation for Genesect:**
