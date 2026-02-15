@@ -34,15 +34,15 @@ Reset gift Pokémon for desired stats.
 
 1. Have full boxes and party slots, you can verify this if you can no longer throw balls at wild Pokémon. <img src="images/StatsReset-AzFloette-FullParty1.png">
 2. Proceed with the 15th reward battle against the rival, enter Quasartico Inc. for the first half of the dialog until your rival tries to give you AZ's Floette but can't due to the full box slots. <img src="images/StatsReset-AzFloette-FullParty2.png">
-3. Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. <img src="images/StatsReset-AzFloette-FlySpot.png">
+3. (No longer required after 0.62) Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. <img src="images/StatsReset-AzFloette-FlySpot.png">
 4. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
 5. Fly to any Pokémon Center and place a new backup save by healing.
 6. Start the program in game.
 
 **Preparation for Magearna:**
 
-1. Have the 999 Mega Shards to complete the Side Mission.
-2. Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. (Refer to the image in step 3 of the Floette setup if needed)
+1. Start the Side Mission until asked for the 999 Mega Shards, then prepare the 999 Mega Shards ready to complete the Side Mission.
+2. (No longer required after 0.62) Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. (Refer to the image in step 3 of the Floette setup if needed)
 3. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
 4. Fly to any Pokémon Center and place a new backup save by healing.
 5. Start the program in game.
@@ -101,6 +101,7 @@ The desired IV spread for each stat.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
