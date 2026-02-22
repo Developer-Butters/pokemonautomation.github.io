@@ -1,11 +1,5 @@
 # Purple Beam Finder
 
-**Related Programs:**
-
-- [Beam Reset](BeamReset.md)
-- [Purple Beam Finder](PurpleBeamFinder.md) (this program)
-
-
 ## Program Description
 
 A smart version of [Beam Reset](BeamReset.md) that automatically stops on a purple beam.
@@ -69,4 +63,5 @@ German (and possibly other languages) has an extra line of text before the wishi
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
