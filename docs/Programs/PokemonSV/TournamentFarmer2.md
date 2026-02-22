@@ -11,7 +11,7 @@ Farm the Academy Ace Tournament for money and prizes. (updated version for Indig
 
 Because of the increased difficulty of the tournament after completing DLC2, this version of the tournament farmer is better as it allows better customization move selection. However, as of this writing, it cannot track money or item rewards.
 
-<img src="images/TournamentFarmer2.png">
+<img src="images/TournamentFarmer2.jpg">
 
 ## Setup
 

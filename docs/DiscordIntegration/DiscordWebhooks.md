@@ -11,7 +11,7 @@ Notifications can be useful for various things. For example:
 2. Get notified when a long-running program is finished or otherwise needs your attention.
 3. Send notifications for live (real-time) hosting.
 
-<img src="images/discord-notifications-0.png" width="50%">
+<img src="images/discord-notifications-0.jpg" width="50%">
 
 
 
@@ -54,7 +54,7 @@ Navigate to any program that sends notifications. All programs that send notific
 
 Click on any of the "Send Test Message" buttons. If everything worked properly, this will send a message to your channel with the webhook.
 
-<img src="images/discord-notifications-webhooks-0.png">
+<img src="images/discord-notifications-webhooks-0.jpg">
 
 If it doesn't, there can literally be a million things wrong. A good place to start is to open up the Output Window and look for any errors.
 

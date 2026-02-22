@@ -91,7 +91,7 @@ And that's it!
 
 Make sure you have everything else setup so that it looks like this:
 
-<img src="../Images/GeneralSetup-CC.png">
+<img src="../Images/GeneralSetup-CC.jpg">
 
 If not, you should go back to the [general setup guide](../index.md) and start over.
 
@@ -110,7 +110,7 @@ If not, you should go back to the [general setup guide](../index.md) and start o
      - Pico W(H): `PABotBase-Pico1W-2025092300.uf2` (version number may vary)
      - Pico 2 W(H): `PABotBase-Pico2W-2025092300.uf2` (version number may vary)
 
-<img src="../Images/PicoW/ControllerSetup-PicoW-Flash1.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-Flash1.jpg">
 
 ### Step 2: Navigate to the Grip Menu
 
@@ -139,7 +139,7 @@ After a few seconds, you should see a controller pop-up in the Grip menu on the 
 
 The controller colors are randomized and should match the color icons in the status indicator. This helps to distinguish controllers if you have multiple of them. You can change the colors in the `Nintendo Switch -> Framework Settings` menu.
 
-<img src="../Images/PicoW/ControllerSetup-PicoW-USB-Ready-Annotated.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-USB-Ready-Annotated.jpg">
 
 
 ### Step 5: Test the connection

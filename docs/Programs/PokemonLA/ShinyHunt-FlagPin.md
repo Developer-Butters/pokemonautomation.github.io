@@ -1,4 +1,4 @@
-﻿# Shiny Hunt - Flag Pin
+# Shiny Hunt - Flag Pin
 
 **Related Programs:**
 
@@ -59,7 +59,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9523300442
 6. Return to Jubilife Village and save the game in the below position.
 7. Start the program in the game.
 
-<img src="images/ShinyHunt-FlagPin-1.png">
+<img src="images/ShinyHunt-FlagPin-1.jpg">
 
 When you start the program, it will first travel to the desired start location. Then it will hop on Braviary, look for the flag, and travel to it in a straight line.
 

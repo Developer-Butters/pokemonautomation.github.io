@@ -32,9 +32,9 @@ Reset gift Pokémon for desired stats.
 
 **Preparation for AZ's Floette:**
 
-1. Have full boxes and party slots, you can verify this if you can no longer throw balls at wild Pokémon. <img src="images/StatsReset-AzFloette-FullParty1.png">
-2. Proceed with the 15th reward battle against the rival, enter Quasartico Inc. for the first half of the dialog until your rival tries to give you AZ's Floette but can't due to the full box slots. <img src="images/StatsReset-AzFloette-FullParty2.png">
-3. (No longer required after 0.62) Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. <img src="images/StatsReset-AzFloette-FlySpot.png">
+1. Have full boxes and party slots, you can verify this if you can no longer throw balls at wild Pokémon. <img src="images/StatsReset-AzFloette-FullParty1.jpg">
+2. Proceed with the 15th reward battle against the rival, enter Quasartico Inc. for the first half of the dialog until your rival tries to give you AZ's Floette but can't due to the full box slots. <img src="images/StatsReset-AzFloette-FullParty2.jpg">
+3. (No longer required after 0.62) Set the guide pin to Quasartico Inc. so that opening the map from the main menu (X press then Plus press) placecs the cursor right above the Quasartico Inc. fly spot. <img src="images/StatsReset-AzFloette-FlySpot.jpg">
 4. Make room on the top left slot in the box system, make sure that this is where the cursor is when opening the box system from the main menu.
 5. Fly to any Pokémon Center and place a new backup save by healing.
 6. Start the program in game.

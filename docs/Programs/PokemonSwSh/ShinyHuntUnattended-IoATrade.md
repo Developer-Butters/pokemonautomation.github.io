@@ -113,7 +113,7 @@ On a shiny trade, it will appear shiny in the trade itself.
 
 This program uses [**Tolerate System Update Menu (fast)**](../NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
-<img src="images/ShinyHuntUnattended-IoATrade-Settings.png">
+<img src="images/ShinyHuntUnattended-IoATrade-Settings.jpg">
 
 ### Start to Run Delay:
 

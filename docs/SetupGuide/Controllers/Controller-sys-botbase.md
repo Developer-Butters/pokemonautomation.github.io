@@ -34,7 +34,7 @@ Since there is no additional hardware, there are no additional hardware setup in
 
 Make sure you have everything else setup so that it looks like this:
 
-<img src="../Images/GeneralSetup-CC.png">
+<img src="../Images/GeneralSetup-CC.jpg">
 
 If not, you should go back to the [general setup guide](../index.md) and start over.
 
@@ -61,7 +61,7 @@ Places where the Switch will accept a new controller:
 2. The Switch home or settings.
 3. In a game when no other controllers are connected.
 
-<img src="../Images/GripMenu.png">
+<img src="../Images/GripMenu.jpg">
 
 ### Step 4: Connect to the Switch
 
@@ -70,7 +70,7 @@ Places where the Switch will accept a new controller:
 
 If everything worked correctly, it will look like this:
 
-<img src="../Images/sys-botbase/ControllerSetup-sbb-Connected-Labled.png">
+<img src="../Images/sys-botbase/ControllerSetup-sbb-Connected-Labled.jpg">
 
 If not, see [troubleshooting](#troubleshooting).
 
@@ -84,7 +84,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 The default layout is the standard WASD setup for FPS games on the most common QWERTY keyboard layout. If you don't like it or you have a different keyboard layout, you can change the key mappings in the "Framework Settings" panel at the top of the program list to the left.
 
-<img src="../Images/sys-botbase/ControllerSetup-sbb-Controls.png">
+<img src="../Images/sys-botbase/ControllerSetup-sbb-Controls.jpg">
 
 ### Step 6: You are done!
 
@@ -144,7 +144,7 @@ This means the Switch has stopped responding to the computer's commands. The mos
 
 ### "Cannot start program. The controller is missing the feature: TickPrecise"
 
-<img src="../Images/sys-botbase/ControllerSetup-sbb-TickPrecise.png">
+<img src="../Images/sys-botbase/ControllerSetup-sbb-TickPrecise.jpg">
 
 If you are seeing this message, it means you are running sys-botbase 2.x. This version of sys-botbase lacks the timing precision needed to run many of our programs.
 

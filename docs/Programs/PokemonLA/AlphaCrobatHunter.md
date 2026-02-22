@@ -56,7 +56,7 @@ The stats for everything in the cave are generated upon first entry to the cave.
 
 If you run this program after having already entered the cave during this visit to the region, everything in the cave will be identical on each reset!
 
-<img src="images/AlphaCrobatHunter-1.png" width="500"> <img src="images/AlphaCrobatHunter-2.png" width="500">
+<img src="images/AlphaCrobatHunter-1.jpg" width="500"> <img src="images/AlphaCrobatHunter-2.jpg" width="500">
 
 The program will repeatedly enter the cave, navigate to the alpha Crobat, and reset.
 If the program finds a shiny, it still stop and go to the Switch home to freeze the game.

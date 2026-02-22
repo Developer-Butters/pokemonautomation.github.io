@@ -57,7 +57,7 @@ on a map.
 
 6. Start the program in the game.
 
-<img src="images/OutbreakFinder-1.png">
+<img src="images/OutbreakFinder-1.jpg">
 
 ## Options
 

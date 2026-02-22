@@ -13,7 +13,7 @@ Running out of box space is a huge problem in this game. So you will want to mas
 
 This program can also be used to (inefficiently) grind Mable's research for catching each type of Pokémon 50 times.
 
-<img src="images/InPlaceCatcher.png">
+<img src="images/InPlaceCatcher.jpg">
 
 
 ### Setup of Settings

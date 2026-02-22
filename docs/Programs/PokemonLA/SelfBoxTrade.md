@@ -9,7 +9,7 @@
 
 Trade boxes of Pokémon between two Switches locally.
 
-<img src="images/SelfBoxTrade-0.png">
+<img src="images/SelfBoxTrade-0.jpg">
 
 
 ### Settings

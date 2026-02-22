@@ -95,7 +95,7 @@ And that's it!
 
 Make sure you have everything else setup so that it looks like this:
 
-<img src="../Images/GeneralSetup-CC.png">
+<img src="../Images/GeneralSetup-CC.jpg">
 
 If not, you should go back to the [general setup guide](../index.md) and start over.
 
@@ -120,7 +120,7 @@ Open up Device Manager and look for it under "Serial Ports". If you don't see it
 2. Unzip, then run `flash_download_tool_3.9.7.exe` (version number may vary)
 3. When you see the following menu, select "ESP32" and "Develop". Then hit OK.
 
-    <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Flash-0.png">
+    <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Flash-0.jpg">
 
 4. You will then be prompted with this complicated window. Fill everything as follows:
 
@@ -137,7 +137,7 @@ Open up Device Manager and look for it under "Serial Ports". If you don't see it
     
     If everything worked correctly, you should see a green progress bar like this. If you see that it gets stuck printing out `...` and never makes progress, see [troubleshooting](#unable-to-flash-the-esp32-stuck-on).
 
-    <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Flash-2.png">
+    <img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Flash-2.jpg">
 
 6. Reboot your ESP32. You can do this either by:
 
@@ -187,7 +187,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 Overall, the idea here is that you can play your Switch from your computer. While it's not as nice as using a native controller, it is good enough to easily setup programs - especially if you're doing this remotely where you do not have physical access to the Switch.
 
-<img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Controls.png">
+<img src="../Images/ESP32/ControllerSetup-ESP32-WROOM-Controls.jpg">
 
 **Controller Types:**
 

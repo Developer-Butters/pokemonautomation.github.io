@@ -168,7 +168,7 @@ If you don't see the device in the dropdown, you probably need to refresh it (es
 
 If everything worked correctly, it will look like this:
 
-<img src="../Images/Mac/esp32-controller-discovered.png">
+<img src="../Images/Mac/esp32-controller-discovered.jpg">
 
 Both the wired and wireless setups use serial ports. The program can distinguish them when it connects to it.
 

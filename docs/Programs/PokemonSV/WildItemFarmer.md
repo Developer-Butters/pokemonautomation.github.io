@@ -24,7 +24,7 @@ The program does not automate the part that clones a Pokémon into the wild. Ins
 
 **(Do not catch the clone if it is a fused Pokémon! A cloned fused Pokémon cannot be properly unfused or removed from the game.)**
 
-<img src="images/WildItemFarmer-Trick.png">
+<img src="images/WildItemFarmer-Trick.jpg">
 
 
 ### How This Program Works:

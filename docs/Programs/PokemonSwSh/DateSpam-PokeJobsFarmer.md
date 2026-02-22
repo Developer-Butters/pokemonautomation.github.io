@@ -3,7 +3,7 @@
 
 This program farms Poké Jobs in order to make Pokémons gain experience without evolving or learning new moves. Evolution can later be triggered by leveling or by using Rare Candies is level 100 has been reached. Moves can be learned from the Move Reminder.
 
-<img src="images/DateSpam-PokeJobsFarmer-0.png">
+<img src="images/DateSpam-PokeJobsFarmer-0.jpg">
 
 ### Setup of Settings
 

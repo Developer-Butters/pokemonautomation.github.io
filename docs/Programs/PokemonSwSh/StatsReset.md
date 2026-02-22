@@ -49,7 +49,7 @@ This program requires you to input what stat range you want to search for.
 
 This program uses [**Tolerate System Update Menu (fast)**](../NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
-<img src="images/StatsReset-Settings.png">
+<img src="images/StatsReset-Settings.jpg">
 
 ### Go Home when Done:
 

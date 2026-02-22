@@ -55,7 +55,7 @@ While both sides should be supplying a steady 5V, they will not be exactly the s
 
 We currently recommend the [1N5817 Schottky Diode](https://www.amazon.com/dp/B07Q5H1SLY). But anything with similar specs should work.
 
-<img src="SetupGuide/Images/1N5817-Schottky-Diode.png">
+<img src="SetupGuide/Images/1N5817-Schottky-Diode.jpg">
 
 ### Pico W:
 

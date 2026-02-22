@@ -4,7 +4,7 @@
 
 Reset for a shiny starter.
 
-<img src="images/StarterReset-0.png">
+<img src="images/StarterReset-0.jpg">
 
 
 ### Setup of Settings

@@ -11,7 +11,7 @@ There are currently 4 restaurants suitable for this:
 - Restaurant Le Wow (3 Star)
 - Sushi High Roller (Multi-battles)
 
-<img src="images/RestaurantFarmer.png">
+<img src="images/RestaurantFarmer.jpg">
 
 
 ### Setup of Settings

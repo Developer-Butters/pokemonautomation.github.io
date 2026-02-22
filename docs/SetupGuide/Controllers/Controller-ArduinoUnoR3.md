@@ -57,13 +57,13 @@ There are many options here. The one we recommend (for ease of use) is the Adafr
 
 Or you can search for "CP2102" and you'll get tons of hits from various brands/sellers that look like these:
 
-<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.png" width="22%"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" width="34.5%">
+<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.jpg" width="22%"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" width="34.5%">
 
 **Important:**
 
 **DO NOT get cables with the Prolific controllers. e.g. PL2303 or any other model number.** They are cheap, do not work, and they are explicitly blocked in the program. **They often look deceptively similar to the Adafruit UART, but they are not the same.** If you buy outside of this link, verify it does not use PL controllers. If you buy it anyway, you will be wasting your time and money. **YOU HAVE BEEN WARNED!**
 
-<img src="../Images/UART/ControllerSetup-UART-NoProlific.png" width="40%">
+<img src="../Images/UART/ControllerSetup-UART-NoProlific.jpg" width="40%">
 
 
 **Male-Male Jumper Wires:**
@@ -140,7 +140,7 @@ We won't go into too much detail on how to debug things at this point. This is o
 
 7. Click Run.
 
-<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-FLIP-2.png" width="50%">
+<img src="../Images/ArduinoUnoR3/ControllerSetup-UnoR3-FLIP-2.jpg" width="50%">
 
 If you see no errors, the you have successfully flashed the program to your Arduino!
 

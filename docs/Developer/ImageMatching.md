@@ -28,9 +28,9 @@ Next, we use Waterfill to get the red portions of the image. The Waterfill algor
 
 Waterfill then extracts all connected red portions (that are above a certain area threshold). Note that the red arc and dot inside the icon aren't connected to the rest of the icon, so these won't be a part of the Waterfill object.
 
-<img src="images//waterfill-obj1.png">
-<img src="images//waterfill-obj2.png">
-<img src="images//waterfill-obj3.png">
+<img src="images//waterfill-obj1.jpg">
+<img src="images//waterfill-obj2.jpg">
+<img src="images//waterfill-obj3.jpg">
 
 These Waterfill objects are then compared with the waterfilled template. 
 

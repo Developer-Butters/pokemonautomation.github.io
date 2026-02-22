@@ -12,7 +12,7 @@ Discord bot integration can be useful for various things. For example:
 3. Send notifications for live (real-time) hosting.
 4. Use remote control commands to start or stop a program, send controller inputs, take screenshots, etc.
 
-<img src="images/discord-notifications-0.png" width="50%">
+<img src="images/discord-notifications-0.jpg" width="50%">
 
 
 
@@ -29,17 +29,17 @@ Discord bot integration can be useful for various things. For example:
 
 4. Make sure your bot is set to private, otherwise anyone will be able to invite it to their servers.
 
-    <img src="images/discord-bot-private.png">
+    <img src="images/discord-bot-private.jpg">
 
 5. Under Privileged Gateway Intents enable `Presence Intent`, `Server Members Intent`, and `Message Content Intent`. Save your changes.
 
-    <img src="images/discord-bot-intents-0.png">
+    <img src="images/discord-bot-intents-0.jpg">
 
 6. Go to the OAuth2 tab in the left sidebar. We will now generate an invite URL with the correct permissions. 
 
 Under SCOPES, select `bot`.
 
-<img src="images/discord-bot-scopes.png">
+<img src="images/discord-bot-scopes.jpg">
 
 **You now have two options:**
 
@@ -47,11 +47,11 @@ Under SCOPES, select `bot`.
 
   **b.** Grant `Send Messages`, `Embed Links`, `Attach Files`, `Read Message History` permissions. This will allow you to invite the bot to a server you have Manage Server permissions in, and your bot will have a pre-configured role.
 
-<img src="images/discord-bot-permissions-0.png">
+<img src="images/discord-bot-permissions-0.jpg">
 
 Copy the generated URL shown above and paste it into your browser of choice. Click `Continue`.
 
-<img src="images/discord-bot-paste-url-in-browser.png">
+<img src="images/discord-bot-paste-url-in-browser.jpg">
 
 **NOTE:** If you don't already have a server that you have Manage Server permissions in, one way is to create your own server. 
 
@@ -106,7 +106,7 @@ Navigate to any program that sends notifications. All programs that send notific
 
 Click on any of the "Send Test Message" buttons. If everything worked properly, this will send a message to the configured channel(s).
 
-<img src="images/discord-notifications-bot-0.png">
+<img src="images/discord-notifications-bot-0.jpg">
 
 ***When using slash commands for the very first time you will have to register them. To do this, type `_cmd register` in a Discord channel you have commands enabled in.
 You can also use this command to re-register commands if new ones are added in the future.***
@@ -239,7 +239,7 @@ Add a delay for sending messages. If you're sending messages to tons of channels
 * **My bot's slash commands are showing up in every channel!**
 
 Restrict slash commands in your server settings.
-<img src="images/discord-slash-restriction.png">
+<img src="images/discord-slash-restriction.jpg">
 
 * **I've registered slash commands but I don't see them!**
 

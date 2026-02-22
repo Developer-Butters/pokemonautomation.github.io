@@ -27,7 +27,7 @@ If video feedback is disabled, this program behaves identically to the [microcon
 
 If video feedback is enabled, it will keep track of stats and will run faster since it can see the screen and waste less time waiting.
 
-<img src="images/AutoHost-Rolling-0.png">
+<img src="images/AutoHost-Rolling-0.jpg">
 
 ---
 
