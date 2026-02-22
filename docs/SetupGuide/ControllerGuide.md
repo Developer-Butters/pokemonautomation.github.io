@@ -15,7 +15,7 @@ This is a guide for all the differnet controller types that we support.
 ## HID: Keyboard
 
 [<img src="../Images/Controllers/HID-PhysicalKeyboard.jpg" width="600">](../Images/Controllers/HID-PhysicalKeyboard.jpg)
-[<img src="../Images/Controllers/HID-DigitalKeyboard.png" width="600">](../Images/Controllers/HID-DigitalKeyboard.png)
+[<img src="../Images/Controllers/HID-DigitalKeyboard.jpg" width="600">](../Images/Controllers/HID-DigitalKeyboard.jpg)
 
 ### Supported Devices/Boards:
 
@@ -222,7 +222,7 @@ This controller supports custom colors for aesthetic purposes.
 
 Unlike the 3rd party wired controllers, there is one additional step to use this controller. You must enable the following option:
 
-[<img src="../Images/Controllers/NS-ProControllerEnable.png" width="600">](../Images/Controllers/NS-ProControllerEnable.png)
+[<img src="../Images/Controllers/NS-ProControllerEnable.jpg" width="600">](../Images/Controllers/NS-ProControllerEnable.jpg)
 
 This extra step is needed because the Pro Controller is naturally a wireless controller. So Nintendo intends users to use it wirelessly instead of over USB.
 
@@ -260,7 +260,7 @@ This controller supports custom colors for aesthetic purposes.
 
 Unlike the 3rd party wired controllers, there is one additional step to use this controller. You must enable the following option:
 
-[<img src="../Images/Controllers/NS-ProControllerEnable.png" width="600">](../Images/Controllers/NS-ProControllerEnable.png)
+[<img src="../Images/Controllers/NS-ProControllerEnable.jpg" width="600">](../Images/Controllers/NS-ProControllerEnable.jpg)
 
 This extra step is needed because joycons are naturally wireless controllers. So Nintendo intends users to use these wirelessly instead of over USB.
 

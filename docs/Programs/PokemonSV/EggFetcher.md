@@ -10,7 +10,7 @@
 
 Make sandwiches and collect eggs.
 
-<img src="images/EggFetcher-0.png">
+<img src="images/EggFetcher-0.jpg">
 
 ### Setup of Settings
 

@@ -47,7 +47,7 @@ Depending on your capture card, it may look different from this:
 
 3. Select your capture card in the "Camera" dropdown. If you don't see it there, click "Reset Camera" to refresh the list.
 
-<img src="Images/GeneralSetup-CameraSelect.png" width="400"> <img src="Images/GeneralSetup-CameraSelected.png" width="400">
+<img src="Images/GeneralSetup-CameraSelect.png" width="400"> <img src="Images/GeneralSetup-CameraSelected.jpg" width="400">
 
 ## Step 4: Setup sound.
 
@@ -59,7 +59,7 @@ The sound options are below the Camera options. Most of these options are self-e
 
 If you did everything right until now, the black bar will light up with the audio spectrum and you will hear the sound from your Switch.
 
-<img src="Images/GeneralSetup-AudioSelect.png" width="400"> <img src="Images/GeneralSetup-AudioSelected.png" width="400">
+<img src="Images/GeneralSetup-AudioSelect.png" width="400"> <img src="Images/GeneralSetup-AudioSelected.jpg" width="400">
 
 The Audio Input is the important one since programs that listen to audio will be using that.
 The Audio Output and playback are only for user consumption. You can mute the program by changing the Audio Output to (none) or moving the slider all the way to the left.

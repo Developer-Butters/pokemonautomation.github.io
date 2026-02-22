@@ -4,7 +4,7 @@
 
 MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects, non-shiny fossils, and other hunts.
 
-<img src="images/MassRelease-0.png">
+<img src="images/MassRelease-0.jpg">
 
 ### Setup of Settings
 

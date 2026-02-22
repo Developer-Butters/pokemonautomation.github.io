@@ -12,7 +12,7 @@ Therefore, this program is an efficent soft-reset based method to shiny hunt alm
 
 The important aspect of this method is that you must be close enough to the spawn for the shiny sound to play. So you should save either next to it, or (for skittish Pokémon) as close as possible without immediately scaring it away when it respawns.
 
-<img src="images/ShinyHunt-OverworldReset.png">
+<img src="images/ShinyHunt-OverworldReset.jpg">
 (image credit: Scotteh)
 
 

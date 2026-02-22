@@ -45,7 +45,7 @@ If video feedback is enabled, it will keep track of stats, automatically stop on
 
 This program uses [**Tolerate System Update Menu (slow)**](../NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-slow) to bypass the system update window.
 
-<img src="images/DenRoller-Settings.png">
+<img src="images/DenRoller-Settings.jpg">
 
 ### Frame Skips:
 

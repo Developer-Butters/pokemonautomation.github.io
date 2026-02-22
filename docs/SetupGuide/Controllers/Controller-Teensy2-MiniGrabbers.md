@@ -48,7 +48,7 @@ There are many options here. The one we recommend (for ease of use) is the Adafr
 
 Or you can search for "CP2102" and you'll get tons of hits from various brands/sellers that look like these:
 
-<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.png" width="22%"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" width="34.5%">
+<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.jpg" width="22%"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" width="34.5%">
 
 **Mini-Grabbers to Male Jumper Wires**
 
@@ -100,18 +100,18 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 1. Run the Teensy Loader program that you downloaded earlier.
 2. Click the purple file icon and browse for `NintendoSwitch-PABotBase-xxxxxxxxx-Teensy2.hex` or `NintendoSwitch-PABotBase-xxxxxxxxx-TeensyPP2.hex` depending on which one you have.
 
-    <img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-0.png">
+    <img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-0.jpg">
 
 3. Plug the Teensy into your computer.
 4. Press the white button on the Teensy. You may need to wait for Windows to install drivers.
 
     At this point, two green arrows should show up in Teensy Loader.
 
-    <img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-1.png">
+    <img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-1.jpg">
 
 5. Click the left arrow. This flashes the program into the Teensy.
 
-    <img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-2.png">
+    <img src="../Images/Teensy2/ControllerSetup-Teensy2-Loader-2.jpg">
 
 6. Unplug the Teensy from your computer.
 

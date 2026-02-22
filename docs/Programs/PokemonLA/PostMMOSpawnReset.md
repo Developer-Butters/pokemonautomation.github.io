@@ -1,4 +1,4 @@
-﻿# Post-MMO Spawn Reset
+# Post-MMO Spawn Reset
 
 **Related Programs:**
 
@@ -52,7 +52,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/9701645462
 5. Stay at the location of the spawn point. Make sure your desired spawn is still suppressed. Save the game.
 6. Start the program in the game.
 
-<!-- <img src="images/ShinyHunt-FlagPin-1.png"> -->
+<!-- <img src="images/ShinyHunt-FlagPin-1.jpg"> -->
 
 When you start the program, it will start the cycle of resetting the game and listening for a shiny sound. The program can be set to move around according to the program options after entering the game to move closer to the desired spawn point.
 

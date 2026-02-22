@@ -4,7 +4,7 @@
 
 This programs scroll through your Pokédex to check how many tasks you did. It then output a file named output.txt with a format that is easy to copy paste in a spreadsheet like [PlaTasksTemplate.ods](DownloadableFiles/PlaTasksTemplate.ods). You should be able to open this file with your spreadsheet editor of choice (Google Sheets, LibreOffice Calc, Excel)
 
-<img src="images/PokedexTasksReader-0.png">
+<img src="images/PokedexTasksReader-0.jpg">
 
 ### Settings
 

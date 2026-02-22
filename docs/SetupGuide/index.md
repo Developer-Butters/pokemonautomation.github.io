@@ -69,7 +69,7 @@ We don't officially support Linux. Though if you are a developer, you can build 
 
 ### The Nintendo Switch
 
-<img src="Images/GeneralSetup-NintendoSwitch.png">
+<img src="Images/GeneralSetup-NintendoSwitch.jpg">
 
 If you're going to automate a Nintendo Switch game, then you need to have a Nintendo Switch.
 
@@ -146,7 +146,7 @@ See: [General Setup for macOS](GeneralSetupMac.md)
 
 When you are done, you should have the CC window running and looking like this:
 
-[<img src="Images/GeneralSetup-FullSystem.jpg" width="48.5%">](Images/GeneralSetup-FullSystem.jpg) [<img src="Images/GeneralSetup-AudioSelected.png" width="45.3%">](Images/GeneralSetup-AudioSelected.png)
+[<img src="Images/GeneralSetup-FullSystem.jpg" width="48.5%">](Images/GeneralSetup-FullSystem.jpg) [<img src="Images/GeneralSetup-AudioSelected.jpg" width="45.3%">](Images/GeneralSetup-AudioSelected.jpg)
 
 
 ## Step 3: Controller Setup:

@@ -97,13 +97,13 @@ There are many options here. The one we recommend (for ease of use) is the Adafr
 
 Or you can search for "CP2102" and you'll get tons of hits from various brands/sellers that look like these:
 
-<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.png" width="22%"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" width="34.5%">
+<img src="../Images/UART/ControllerSetup-UART-CP210x-Blue.jpg" width="22%"> <img src="../Images/UART/ControllerSetup-UART-CP210x-Red.jpg" width="34.5%">
 
 **Important:**
 
 **DO NOT get cables with the Prolific controllers. e.g. PL2303 or any other model number.** They are cheap, do not work, and they are explicitly blocked in the program. **They often look deceptively similar to the Adafruit UART, but they are not the same.** If you buy outside of this link, verify it does not use PL controllers. If you buy it anyway, you will be wasting your time and money. **YOU HAVE BEEN WARNED!**
 
-<img src="../Images/UART/ControllerSetup-UART-NoProlific.png" width="40%">
+<img src="../Images/UART/ControllerSetup-UART-NoProlific.jpg" width="40%">
 
 ### Hardware Assembly:
 
@@ -130,7 +130,7 @@ Notes:
 
 Make sure you have everything else setup so that it looks like this:
 
-<img src="../Images/GeneralSetup-CC.png">
+<img src="../Images/GeneralSetup-CC.jpg">
 
 If not, you should go back to the [general setup guide](../index.md) and start over.
 
@@ -149,7 +149,7 @@ If not, you should go back to the [general setup guide](../index.md) and start o
      - Pico W(H): `PABotBase-Pico1W-2025092300.uf2` (version number may vary)
      - Pico 2 W(H): `PABotBase-Pico2W-2025092300.uf2` (version number may vary)
 
-    <img src="../Images/PicoW/ControllerSetup-PicoW-Flash1.png">
+    <img src="../Images/PicoW/ControllerSetup-PicoW-Flash1.jpg">
 
 6. Unplug the Pico W's USB from your computer. Then plug it into your Switch.
 7. Plug the UART into your computer.
@@ -191,7 +191,7 @@ After a few seconds, you should see a controller pop-up in the Grip menu on the 
 
 The controller colors are randomized and should match the color icons in the status indicator. This helps to distinguish controllers if you have multiple of them. You can change the colors in the `Nintendo Switch -> Framework Settings` menu.
 
-<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Wireless-Ready-Annotated.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Wireless-Ready-Annotated.jpg">
 
 ### Step 6: Connect the Pico W to the Switch as a Wired Controller
 
@@ -202,7 +202,7 @@ Now lets try a wired connection:
 
 You should now see a black controller show up.
 
-<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Wired-Ready.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Wired-Ready.jpg">
 
 Even though we used the grip menu here, wired controllers will connect from almost anywhere.
 
@@ -217,7 +217,7 @@ We recommend familiarizing yourself with the keyboard controls as this is the pr
 
 Overall, the idea here is that you can play your Switch from your computer. While it's not as nice as using a native controller, it is good enough to easily setup programs - especially if you're doing this remotely where you do not have physical access to the Switch.
 
-<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Controls.png">
+<img src="../Images/PicoW/ControllerSetup-PicoW-UART-Controls.jpg">
 
 **Controller Types:**
 

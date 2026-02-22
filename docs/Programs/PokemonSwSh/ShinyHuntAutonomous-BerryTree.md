@@ -57,7 +57,7 @@ Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require *no
 
 This program uses [**Tolerate System Update Menu (fast)**](../NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
-<img src="images/ShinyHuntAutonomous-BerryTree-Settings.png">
+<img src="images/ShinyHuntAutonomous-BerryTree-Settings.jpg">
 
 ### Go Home when Done:
 

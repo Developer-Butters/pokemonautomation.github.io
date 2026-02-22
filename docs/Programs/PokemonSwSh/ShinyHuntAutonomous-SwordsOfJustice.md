@@ -63,7 +63,7 @@ This program uses [**Tolerate System Update Menu (fast)**](../NintendoSwitch/Fra
 
 There is no option to search only for a square shiny. Nearly all shinies are square and only 15/65536 are star. Therefore it is infeasible to hunt for star shiny.
 
-<img src="images/ShinyHuntAutonomous-SwordsOfJustice-Settings.png">
+<img src="images/ShinyHuntAutonomous-SwordsOfJustice-Settings.jpg">
 
 ### Go Home when Done:
 

@@ -4,7 +4,7 @@
 
 Farm Mega Shards in the alley behind Restaurant Le Yeah.
 
-<img src="images/MegaShardFarmer.png">
+<img src="images/MegaShardFarmer.jpg">
 
 
 ### Setup of Settings

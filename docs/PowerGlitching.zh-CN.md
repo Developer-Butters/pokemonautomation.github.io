@@ -53,7 +53,7 @@ Pico（UART模式）则由底座供电，不幸受影响。尽管它往往更常
 
 我们目前推荐[1N5817肖特基二极管](https://www.amazon.com/dp/B07Q5H1SLY)。但任何规格类似的二极管应该都可以。
 
-<img src="SetupGuide/Images/1N5817-Schottky-Diode.png">
+<img src="SetupGuide/Images/1N5817-Schottky-Diode.jpg">
 
 ### Pico W：
 

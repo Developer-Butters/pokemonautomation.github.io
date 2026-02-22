@@ -62,7 +62,7 @@ This program uses [**Tolerate System Update Menu (fast)**](../NintendoSwitch/Fra
 
 In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
-<img src="images/GodEggItemDuplication-Settings.png">
+<img src="images/GodEggItemDuplication-Settings.jpg">
 
 ### Fetch Attempts:
 
