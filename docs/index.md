@@ -1,6 +1,6 @@
 ---
 title: Landing Page
-description: "Free software to automate Pokémon games on retail Switch and Switch 2. Legends: Z-A automation is now in development."
+description: "Free software to automate Pokémon games on retail Switch and Switch 2. Check our Legends: Z-A Donut Maker program to make perfect shiny hunting donuts!"
 ---
 
 #  Pokémon Automation (Landing Page)
