@@ -14,8 +14,8 @@ This is a guide for all the differnet controller types that we support.
 
 ## HID: Keyboard
 
-[<img src="../Images/Controllers/HID-Keyboard.jpg" width="600">](../Images/Controllers/HID-Keyboard.jpg)
-[<img src="../Images/Controllers/HID-Keyboard.png" width="600">](../Images/Controllers/HID-Keyboard.png)
+[<img src="../Images/Controllers/HID-PhysicalKeyboard.jpg" width="600">](../Images/Controllers/HID-PhysicalKeyboard.jpg)
+[<img src="../Images/Controllers/HID-DigitalKeyboard.png" width="600">](../Images/Controllers/HID-DigitalKeyboard.png)
 
 ### Supported Devices/Boards:
 

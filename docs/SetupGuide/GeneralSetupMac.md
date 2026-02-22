@@ -50,7 +50,7 @@ Be sure to download the correct installer for your architecture; if you have App
 1. Connect an HDMI cable from your Switch dock to your video capture card.
 2. Connect your capture card to your computer. Depending on your capture card, it may look different from this:
 
-    <img src="Images/Mac/capture-card.png" width="40%">
+    <img src="Images/Mac/capture-card.jpg" width="40%">
 
 3. Select your capture card in the "Camera" dropdown. If you don't see it there, click "Reset Camera" to refresh the list.
 
