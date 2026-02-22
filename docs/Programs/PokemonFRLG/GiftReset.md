@@ -1,10 +1,10 @@
-# Starter Reset
+# Gift Reset
 
 ## Program Description
 
-Soft reset for a shiny starter.
+Soft reset for a shiny gift Pokemon.
 
-<img src="images/StarterReset-0.png">
+<img src="images/GiftReset-0.png">
 
 ## Switch Settings
 
@@ -16,13 +16,21 @@ Soft reset for a shiny starter.
 1. Text Speed: Fast
 2. Frame: Type 1
 
+## Setup
+
+1. For non-starter resets, have exactly 5 Pokemon in your party.
+
 ## Instructions
 
-1. Stand facing the Pokeball of the starter you want.
-2. Save the game. Return the menu cursor to the top after.
+1. Stand facing the Pokeball/NPC that gives you the Pokemon you want.
+2. Save the game. For all non-starter Pokemon, re-open the menu and move the cursor to the top option (POKEDEX) after.
 3. Start the program in-game.
 
 ## Options
+
+### Target:
+
+The Pokemon you are hunting.
 
 ### Go Home when Done:
 
