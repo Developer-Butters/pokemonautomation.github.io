@@ -29,7 +29,8 @@ If video feedback is enabled, it will keep track of stats and will waste a lot l
 **Switch Settings:**
 
 1. Screen size: Must be 100% within the Switch settings
-2. System Time: Unsynced
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+3. System Time: Unsynced
 
 **Program Settings:**
 

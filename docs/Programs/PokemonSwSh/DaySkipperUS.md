@@ -31,19 +31,22 @@ This setup here depends on whether you are on a Switch 1 or a Switch 2.
 
 **Switch 1:**
 
-1. System time: Un-synced
-2. The language/region for the Switch must have a date layout of mm/dd/ year/hour/min/AM.
+1. Screen size: Must be 100% within the Switch settings
+2. System time: Un-synced
+3. The language/region for the Switch must have a date layout of mm/dd/ year/hour/min/AM.
     1. Unlike the JPN date skipper, you do not need to set the starting the date. However you do need to set the current year correctly.
-3. The VS (Y-COMM) glitch must be active.
-4. The console type is set to "Switch 1".
+4. The VS (Y-COMM) glitch must be active.
+5. The console type is set to "Switch 1".
 
 **Switch 2:**
 
-1. System time: Un-synced
-2. The language/region for the Switch must have a date layout of mm/dd/ year/hour/min/AM.
-3. Set the date to the 1st of a month with 31 days that is not March.
-4. The VS (Y-COMM) glitch must be active.
-5. The console type is set to any of the Switch 2 options.
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+3. System time: Un-synced
+4. The language/region for the Switch must have a date layout of mm/dd/ year/hour/min/AM.
+5. Set the date to the 1st of a month with 31 days that is not March.
+6. The VS (Y-COMM) glitch must be active.
+7. The console type is set to any of the Switch 2 options.
 
 ### Instructions
 

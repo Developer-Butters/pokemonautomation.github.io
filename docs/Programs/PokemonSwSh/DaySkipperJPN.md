@@ -23,11 +23,13 @@ This is the original "7k Skipper".
 
 ### Setup of Settings
 
-1. System time: Un-synced
-2. The language for your Switch must be set to Japanese (日本語).
-3. Set the date to the 1st of a month with 31 days that is not March.
-4. The VS (Y-COMM) glitch must be active.
-5. The console type must be correctly set to either the Switch 1 or one of the Switch 2 options.
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+3. System time: Un-synced
+4. The language for your Switch must be set to Japanese (日本語).
+5. Set the date to the 1st of a month with 31 days that is not March.
+6. The VS (Y-COMM) glitch must be active.
+7. The console type must be correctly set to either the Switch 1 or one of the Switch 2 options.
 
 ### Instructions
 
