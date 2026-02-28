@@ -9,7 +9,8 @@ Redeem and soft reset for a shiny Game Corner prize.
 ## Game Settings
 
 1. Text Speed: Fast
-2. Frame: Type 1
+2. Button Mode: Help
+3. Frame: Type 1
 
 ## Setup
 
