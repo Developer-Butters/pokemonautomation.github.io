@@ -1,0 +1,59 @@
+# Gift Reset
+
+## Program Description
+
+Soft reset for a shiny gift Pokemon.
+
+This covers the following:
+
+* Starters (Bulbasaur, Squirtle, Charmander)
+* Magikarp from the salesman
+* Hitmonlee and Hitmonchan from the Fighting Dojo
+* The Celadon Mansion Eevee
+* Silph Co. Lapras
+* Fossil revivals (Omanyte, Kabuto, Aerodactyl)
+
+<img src="images/GiftReset-0.png">
+
+## Game Settings
+
+1. Text Speed: Fast
+2. Button Mode: Help
+3. Frame: Type 1
+
+## Setup
+
+1. If not resetting for a starter, have exactly 5 Pokemon in your party.
+2. Target dependent:
+   * Starters, Hitmonlee, Hitmonchan, Eevee: Stand facing the Pokeball containing the desired Pokemon.
+   * Magikarp, Lapras: Stand in front of the gift giver. For Magikarp, have enough money to purchase it.
+   * Fossils: Give the fossil to the scientist in Cinnabar Lab. Exit and re-enter the room. Then corner the scientist (see image) to prevent them walking away and missing the dialog.
+   
+<img src="images/GiftReset-1.png">
+
+## Instructions
+
+1. Follow the setup for the target above.
+2. Save the game. Re-open the menu after and move the cursor to the top option (POKEDEX for all targets except starters, BAG for starters) after.
+3. Start the program in-game.
+
+## Options
+
+### Target:
+
+The Pokemon you are hunting.
+
+### Go Home when Done:
+
+Go to the Switch Home to idle when finished.
+
+## Credits
+
+- **Author:** kichithewolf
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
