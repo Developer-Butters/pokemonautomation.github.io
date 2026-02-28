@@ -11,11 +11,6 @@ This program works for:
 
 <img src="images/LegendaryRunAway-0.png">
 
-## Switch Settings
-
-1. Full screen/match the image above
-2. No filter applied
-
 ## Game Settings
 
 1. Text Speed: Fast

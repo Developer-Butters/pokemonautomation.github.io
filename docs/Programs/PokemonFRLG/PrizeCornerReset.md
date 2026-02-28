@@ -6,11 +6,6 @@ Redeem and soft reset for a shiny Game Corner prize.
 
 <img src="images/PrizeCornerReset-0.png">
 
-## Switch Settings
-
-1. Full screen/match the image above
-2. No filter applied
-
 ## Game Settings
 
 1. Text Speed: Fast
