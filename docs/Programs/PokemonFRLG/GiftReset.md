@@ -34,7 +34,7 @@ This covers the following:
 ## Instructions
 
 1. Follow the setup for the target above.
-2. Save the game. For all non-starter targets, re-open the menu and move the cursor to the top option (POKEDEX) after.
+2. Save the game. Re-open the menu after and move the cursor to the top option (POKEDEX for all targets except starters, BAG for starters) after.
 3. Start the program in-game.
 
 ## Options
