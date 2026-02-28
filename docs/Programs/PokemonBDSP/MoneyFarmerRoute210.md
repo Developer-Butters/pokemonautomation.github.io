@@ -40,6 +40,7 @@ This version of the Money Farmer uses a higher paying trainer (double) battle on
 8. You are on foot. (not on your bike)
 9. Your Pokémon is not following you.
 10. Start the program in front of the Celestic Town Pokémon Center.
+11. If you choose the option to take items from Pokemon with the Pickup ability, make sure that your cursor is on the Pokemon tab when you open the menu
 
 *This implies that your faster Pokémon must be able to OHKO the Gyarados and your slower one will OHKO the Raichu. (be aware of Raichu's Static ability)
 Alternatively you can use a spread move that wipes out both as long as it doesn't hurt your other Pokémon.
@@ -65,6 +66,11 @@ If you don't wish to use a move, set the PP to zero. In all cases any 2 move com
 
 When the program runs out of PP for a move, it moves to the next move. When, either Pokémon runs out of PP, it flies back to Celestic Town to heal and return.
 
+### Pokemon with Pickup
+
+If you add Pokemon in your party that have the ability Pickup, they will have a 10% chance after each fight to generate an item (Rare candy, Bottle Cap, etc.). For more info on the Pickup ability, check the [Bulbapedia page](https://bulbapedia.bulbagarden.net/wiki/Pickup_(Ability)
+
+If you decide to add them in your party, make sure that you select the right slots where they are (if your pokemon is in the top / first slot, select the pokemon in slot 1 to have Pickup, etc.)
 
 ## Credits
 
