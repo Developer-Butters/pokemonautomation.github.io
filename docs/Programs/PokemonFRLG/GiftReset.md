@@ -13,7 +13,7 @@ This covers the following:
 * Silph Co. Lapras
 * Fossil revivals (Omanyte, Kabuto, Aerodactyl)
 
-<img src="images/GiftReset-0.png">
+<img src="images/GiftReset-2.png">
 
 ## Game Settings
 
@@ -25,9 +25,9 @@ This covers the following:
 
 1. If not resetting for a starter, have exactly 5 Pokemon in your party.
 2. Target dependent:
-   * Starters, Hitmonlee, Hitmonchan, Eevee: Stand facing the Pokeball containing the desired Pokemon.
-   * Magikarp, Lapras: Stand in front of the gift giver. For Magikarp, have enough money to purchase it.
-   * Fossils: Give the fossil to the scientist in Cinnabar Lab. Exit and re-enter the room. Then corner the scientist (see image) to prevent them walking away and missing the dialog.
+    * Starters, Hitmonlee, Hitmonchan, Eevee: Stand facing the Pokeball containing the desired Pokemon.
+    * Magikarp, Lapras: Stand in front of the gift giver. For Magikarp, have enough money to purchase it.
+    * Fossils: Give the fossil to the scientist in Cinnabar Lab. Exit and re-enter the room. Then corner the scientist (see image) to prevent them walking away and missing the dialog.
    
 <img src="images/GiftReset-1.png">
 
