@@ -15,6 +15,8 @@ This covers the following:
 
 <img src="images/GiftReset-2.png">
 
+*Credit snotyak for the shiny fish*
+
 ## Game Settings
 
 1. Text Speed: Fast
