@@ -12,6 +12,7 @@ This is a list of all the computer-control programs. To run these programs, you 
 - [Pokémon Legends: Arceus](#pokemon-legends-arceus)
 - [Pokémon Scarlet/Violet](#pokemon-scarlet-and-violet)
 - [Pokémon Legends: Z-A](#pokemon-legends-z-a)
+- [Pokémon FireRed and LeafGreen (Nintendo Switch)](#pokemon-firered-and-leafgreen-nintendo-switch)
 - [Zelda: Tears of the Kingdom](#zelda-tears-of-the-kingdom)
 
 **Notes:**
@@ -353,6 +354,16 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 
 
 
+## Pokémon FireRed and LeafGreen (Nintendo Switch)
+
+| **Program** | **Feedback** | **Controllers** |
+| --- | --- | --- |
+| [Gift Reset](PokemonFRLG/GiftReset.md) {.nowrap}             |  Video           | All |
+| [Legendary Reset](PokemonFRLG/LegendaryReset.md) {.nowrap}   |  Video + Audio   | All |
+
+
+
+
 ## Zelda: Tears of the Kingdom
 
 | **Program** | **Feedback** | **Controllers** |
@@ -369,6 +380,7 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
