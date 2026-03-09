@@ -1,4 +1,4 @@
-# Shiny Hunt - Overworld
+# Shiny Hunt - Overworld (Beta testing - not yet available to the public)
 
 ## Program Description
 
