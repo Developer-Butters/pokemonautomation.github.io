@@ -1,4 +1,4 @@
-# Re-flashing the microcontroller.
+# Re-flashing the microcontroller
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
@@ -41,6 +41,7 @@ These are older setups that are still supported, but no longer recommended for n
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
