@@ -4,6 +4,8 @@
 
 This program will shiny hunt random encounters (grass, cave).
 
+<img src="images/ShinyHunt-Overworld-1.jpg">
+
 ## Game Settings
 
 1. Text Speed: Fast
