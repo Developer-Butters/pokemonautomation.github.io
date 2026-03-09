@@ -17,13 +17,25 @@ This covers the following:
 
 *Credit snotyak for the shiny fish*
 
-## Game Settings
+
+## Instructions
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 
 1. Text Speed: Fast
 2. Button Mode: Help
 3. Frame: Type 1
 
-## Setup
+**Other Setup:**
 
 1. If not resetting for a starter, have exactly 5 Pokemon in your party.
 2. Target dependent:
@@ -33,7 +45,7 @@ This covers the following:
    
 <img src="images/GiftReset-1.png">
 
-## Instructions
+### Instructions
 
 1. Follow the setup for the target above.
 2. Save the game.

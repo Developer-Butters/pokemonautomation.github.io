@@ -6,18 +6,30 @@ Redeem and soft reset for a shiny Game Corner prize.
 
 <img src="images/PrizeCornerReset-0.png">
 
-## Game Settings
+
+## Instructions
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 
 1. Text Speed: Fast
 2. Button Mode: Help
 3. Frame: Type 1
 
-## Setup
+**Other Setup:**
 
 1. Have 5 Pokemon in your party.
 2. Have enought coins to afford your target.
 
-## Instructions
+### Instructions
 
 1. Stand in front of the middle window of the Prize Corner.
 2. Save the game and move the cursor to the top option (POKEDEX) after.

@@ -16,14 +16,27 @@ This program works for:
 
 <img src="images/LegendaryReset-0.png">
 
-## Game Settings
+
+## Instructions
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 
 1. Text Speed: Fast
 2. Battle Scene: Off
 3. Button Mode: Help
 4. Frame: Type 1
 
-## Instructions
+
+### Instructions
 
 1. Stand in front of your target and save the game.
     - For Ho-Oh stand one tile before your target. (See below.)

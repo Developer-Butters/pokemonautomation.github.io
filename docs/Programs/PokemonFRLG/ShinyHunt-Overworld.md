@@ -6,20 +6,32 @@ This program will shiny hunt random encounters (grass, cave).
 
 <img src="images/ShinyHunt-Overworld-1.jpg">
 
-## Game Settings
+
+## Instructions
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 
 1. Text Speed: Fast
 2. Battle Scene: Off
 3. Button Mode: Help
 4. Frame: Type 1
 
-## Setup
+**Other Setup:**
 
 1. Your lead Pokemon must be faster than your target and/or must have a Smoke Ball. This ensures you can flee successfully.
 2. Your lead must not be shiny.
 3. (Optional) For faster resets, your lead does not have any abilities or items that activate on entry.
 
-## Instructions
+### Instructions
 
 1. Stand in a spot where you can move left/right or up/down forever and not wander off.
 2. Make sure you are safe from getting attacked by trainers.

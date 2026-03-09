@@ -11,19 +11,31 @@ This program works for:
 
 <img src="images/LegendaryRunAway-0.png">
 
-## Game Settings
+
+## Instructions
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 
 1. Text Speed: Fast
 2. Battle Scene: Off
 3. Button Mode: Help
 4. Frame: Type 1
 
-## Setup
+**Other Setup:**
 
 1. Your lead Pokemon must be faster than your target and/or must have a Smoke Ball. This ensures you can flee successfully.
 2. (Optional) For faster resets, your lead does not have any abilities or items that activate on entry.
 
-## Instructions
+### Instructions
 
 1. Stand in front of your target.
     - For Ho-Oh stand one tile before your target. (See below.)
