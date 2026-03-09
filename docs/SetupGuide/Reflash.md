@@ -1,4 +1,4 @@
-# Re-flashing the microcontroller.
+# Re-flashing the microcontroller
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
@@ -31,8 +31,8 @@ These are older setups that are still supported, but no longer recommended for n
 | --- | --- | --- |
 | <img src="Images/ArduinoUnoR3/ControllerSetup-UnoR3.jpg" width="200"> | Arduino Uno R3 {.nowrap} |  [Guide](Controllers/Controller-ArduinoUnoR3#hardware-assembly) {.nowrap} |
 | <img src="Images/ArduinoLeonardo/ControllerSetup-Leonardo.jpg" width="200"> | Arduino Leonardo {.nowrap} | [Guide](Controllers/Controller-ArduinoLeonardo#hardware-assembly) {.nowrap} |
-| <img src="Images/ProMicro/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro {.nowrap} | [Mini-Grabbers](Controllers/Controller-ProMicro-MiniGrabbers#hardware-assembly)<br>[Hammer Headers](Controllers/Controller-ProMicro-HammerHeaders#hardware-assembly.md) {.nowrap} |
-| <img src="Images/Teensy2/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 {.nowrap} | [Mini-Grabbers](Controllers/Controller-Teensy2-MiniGrabbers#hardware-assembly)<br>[Hammer Headers](Controllers/Controller-Teensy2-HammerHeaders#hardware-assembly.md) {.nowrap} |
+| <img src="Images/ProMicro/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro {.nowrap} | [Mini-Grabbers](Controllers/Controller-ProMicro-MiniGrabbers#hardware-assembly)<br>[Hammer Headers](Controllers/Controller-ProMicro-HammerHeaders#hardware-assembly) {.nowrap} |
+| <img src="Images/Teensy2/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 {.nowrap} | [Mini-Grabbers](Controllers/Controller-Teensy2-MiniGrabbers#hardware-assembly)<br>[Hammer Headers](Controllers/Controller-Teensy2-HammerHeaders#hardware-assembly) {.nowrap} |
 
 
 
@@ -41,6 +41,8 @@ These are older setups that are still supported, but no longer recommended for n
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
 
 
 
