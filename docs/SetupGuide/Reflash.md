@@ -16,12 +16,12 @@ The steps for flashing your microcontroller are outlined in one of the guides be
 
 | | **Device Type** | **Guides** |
 | --- | --- | --- |
-| <img src="Images/PicoW/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(USB Mode) {.nowrap} | [Guide](Controllers/Controller-PicoW-USB#step-1-flash-the-firmware-to-the-pico-w.md) {.nowrap} |
-| <img src="Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="200"> | ESP32 {.nowrap} | [Windows](Controllers/Controller-ESP32-WROOM#step-2-flash-the-firmware-to-the-esp32.md)<br>[Mac](Controllers/Controller-ESP32-WROOM-MacOS#step-3-flash-the-firmware-to-the-esp32.md) {.nowrap} |
-| <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="200"> | ESP32-S3 {.nowrap} |[Windows](Controllers/Controller-ESP32-S3#step-2-flash-the-firmware-to-the-esp32.md) {.nowrap} |
-| <img src="Images/PicoW/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(UART Mode) {.nowrap} | [Guide](Controllers/Controller-PicoW-UART#step-1-flash-the-firmware-to-the-pico-w.md) {.nowrap} |
-| <img src="Images/PicoW/ControllerSetup-PicoW-Advanced.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(Advanced UART Mode) {.nowrap} | [Guide](Controllers/Controller-PicoW-Advanced#software-setup.md) {.nowrap} |
-<!-- | <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="200"> | CFW: sys-botbase 3 {.nowrap} | [Guide](Controllers/Controller-sys-botbase.md) {.nowrap} | -->
+| <img src="Images/PicoW/ControllerSetup-PicoW-USB.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(USB Mode) {.nowrap} | [Guide](Controllers/Controller-PicoW-USB#step-1-flash-the-firmware-to-the-pico-w) {.nowrap} |
+| <img src="Images/ESP32/ControllerSetup-ESP32-WROOM.jpg" width="200"> | ESP32 {.nowrap} | [Windows](Controllers/Controller-ESP32-WROOM#step-2-flash-the-firmware-to-the-esp32)<br>[Mac](Controllers/Controller-ESP32-WROOM-MacOS#step-3-flash-the-firmware-to-the-esp32) {.nowrap} |
+| <img src="Images/ESP32-S3/ControllerSetup-ESP32-S3.jpg" width="200"> | ESP32-S3 {.nowrap} |[Windows](Controllers/Controller-ESP32-S3#step-2-flash-the-firmware-to-the-esp32) {.nowrap} |
+| <img src="Images/PicoW/ControllerSetup-PicoW-UART.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(UART Mode) {.nowrap} | [Guide](Controllers/Controller-PicoW-UART#step-1-flash-the-firmware-to-the-pico-w) {.nowrap} |
+| <img src="Images/PicoW/ControllerSetup-PicoW-Advanced.jpg" width="200"> | Raspberry Pi Pico W<br>Raspberry Pi Pico 2 W<br>(Advanced UART Mode) {.nowrap} | [Guide](Controllers/Controller-PicoW-Advanced#software-setup) {.nowrap} |
+<!-- | <img src="Images/sys-botbase/ControllerSetup-sbb.jpg" width="200"> | CFW: sys-botbase 3 {.nowrap} | [Guide](Controllers/Controller-sys-botbase) {.nowrap} | -->
 
 ## Deprecated Setups:
 
@@ -29,10 +29,10 @@ These are older setups that are still supported, but no longer recommended for n
 
 | | **Device Type** | **Guides** |
 | --- | --- | --- |
-| <img src="Images/ArduinoUnoR3/ControllerSetup-UnoR3.jpg" width="200"> | Arduino Uno R3 {.nowrap} |  [Guide](Controllers/Controller-ArduinoUnoR3#hardware-assembly.md) {.nowrap} |
-| <img src="Images/ArduinoLeonardo/ControllerSetup-Leonardo.jpg" width="200"> | Arduino Leonardo {.nowrap} | [Guide](Controllers/Controller-ArduinoLeonardo#hardware-assembly.md) {.nowrap} |
-| <img src="Images/ProMicro/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro {.nowrap} | [Mini-Grabbers](Controllers/Controller-ProMicro-MiniGrabbers#hardware-assembly.md)<br>[Hammer Headers](Controllers/Controller-ProMicro-HammerHeaders#hardware-assembly.md) {.nowrap} |
-| <img src="Images/Teensy2/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 {.nowrap} | [Mini-Grabbers](Controllers/Controller-Teensy2-MiniGrabbers#hardware-assembly.md)<br>[Hammer Headers](Controllers/Controller-Teensy2-HammerHeaders#hardware-assembly.md) {.nowrap} |
+| <img src="Images/ArduinoUnoR3/ControllerSetup-UnoR3.jpg" width="200"> | Arduino Uno R3 {.nowrap} |  [Guide](Controllers/Controller-ArduinoUnoR3#hardware-assembly) {.nowrap} |
+| <img src="Images/ArduinoLeonardo/ControllerSetup-Leonardo.jpg" width="200"> | Arduino Leonardo {.nowrap} | [Guide](Controllers/Controller-ArduinoLeonardo#hardware-assembly) {.nowrap} |
+| <img src="Images/ProMicro/ControllerSetup-ProMicro-HammerHeaders.jpg" width="200"> | Pro Micro {.nowrap} | [Mini-Grabbers](Controllers/Controller-ProMicro-MiniGrabbers#hardware-assembly)<br>[Hammer Headers](Controllers/Controller-ProMicro-HammerHeaders#hardware-assembly.md) {.nowrap} |
+| <img src="Images/Teensy2/ControllerSetup-Teensy2-HammerHeaders.jpg" width="200"> | Teensy 2.0<br>Teensy++ 2.0 {.nowrap} | [Mini-Grabbers](Controllers/Controller-Teensy2-MiniGrabbers#hardware-assembly)<br>[Hammer Headers](Controllers/Controller-Teensy2-HammerHeaders#hardware-assembly.md) {.nowrap} |
 
 
 
@@ -41,6 +41,7 @@ These are older setups that are still supported, but no longer recommended for n
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
