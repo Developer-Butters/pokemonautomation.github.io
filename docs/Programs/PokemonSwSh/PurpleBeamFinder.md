@@ -10,7 +10,7 @@ A smart version of [Beam Reset](BeamReset.md) that automatically stops on a purp
 
 [Demo Video.mov](https://cdn.discordapp.com/attachments/755635697737531544/817957563287076864/PurpleBeamFinder.mp4)
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -19,7 +19,7 @@ This program will automatically hunt for Regigigas and automatically stop on a s
 <img src="images/ShinyHuntAutonomous-Regigigas2-0.jpg" width="800">
 <img src="images/ShinyHuntAutonomous-Regigigas2-1.jpg" width="800">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -39,7 +39,7 @@ The variable that controls the critical delay for this program is **"Start to Ru
 
 Make only small changes at a time, no more than +/- 50 ticks at a time. Most Switches will have a working value somewhere between 1950 and 2050. Each tick is 8 milliseconds. (125 ticks per second)
 
-### Setup of Settings
+## Instructions
 
 1. Text Speed: Fast
 2. Casual mode: Off

@@ -16,7 +16,7 @@ After encountering a Pokémon, no matter how the battle ends (running away, fain
 
 For more information on the history and research regarding this mechanism please refer to this [Summary by ジュナリ](https://note.com/junari000/n/nc04cc0d3e6cb) (external site, written in Japanese).
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

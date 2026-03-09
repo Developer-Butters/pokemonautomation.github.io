@@ -12,7 +12,7 @@ NOTE:
 <img src="images/WigglytuffFarmer.jpg" width=500> <img src="images/WigglytuffFarmer-location.jpg" width=500>
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -16,7 +16,7 @@ This program can also be used to (inefficiently) grind Mable's research for catc
 <img src="images/InPlaceCatcher.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

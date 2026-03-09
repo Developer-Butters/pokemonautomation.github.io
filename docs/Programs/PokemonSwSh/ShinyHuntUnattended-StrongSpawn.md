@@ -48,7 +48,7 @@ Because you will get attacked the moment you enter the game, changing the lead w
 
 > Due to the large number of strong spawn possibilities with different weather and ability combinations, the default setting is unlikely to work. Therefore you are pretty much required to calibrate.
 
-### Setup of Settings
+## Instructions
 
 1. Text Speed: Fast
 2. Casual mode: Off

@@ -38,7 +38,7 @@ Now, you are ready to cook curry.
 If you don't feel like bothering with increasing both friendship and sociability, note that cooking curry with your curry hunting team will increase both their friendship and their sociability. But if you reset after each session to save berries and ingredients, you are going to have to increase these at the beginning of each session, and this will actually affect the speed of your hunt. As this is already quite a long hunt, it is **highly** recommanded to max both friendship and sociability. At the time of writing, cooking curry is the only known method to increase your Pokémon's sociability.
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

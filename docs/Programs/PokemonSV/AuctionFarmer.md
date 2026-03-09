@@ -9,7 +9,7 @@ The program saves the game after each auction and will continue to bid on items 
 <img src="images/AuctionFarmer-0.png">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

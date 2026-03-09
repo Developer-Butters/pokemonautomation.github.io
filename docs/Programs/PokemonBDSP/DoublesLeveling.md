@@ -12,7 +12,7 @@ This program will also detect any shiny Pokémon along the way, thus it can be u
 
 <img src="images/DoublesLeveling-1.jpg" width="400"> <img src="images/DoublesLeveling-2.jpg" width="400">
 
-### Setup of Settings
+## Instructions
 
 1. Screen size: Must be 100% within the Switch settings
 2. Video Resolution: 1080p or higher in program settings

@@ -15,7 +15,7 @@ With the Amulet Coin, this program can max out your money at 999,999 in a couple
 
 <img src="images/MoneyFarmerRoute212-2.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

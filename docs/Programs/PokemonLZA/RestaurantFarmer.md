@@ -14,7 +14,7 @@ There are currently 4 restaurants suitable for this:
 <img src="images/RestaurantFarmer.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

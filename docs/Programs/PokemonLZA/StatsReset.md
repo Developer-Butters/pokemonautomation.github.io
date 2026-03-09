@@ -14,7 +14,7 @@ Catch/receive Pokémon for desired stats.
 
 **DISCLAIMER:** This program utilizes the backup saves to reset for Pokémon stats and often requires long setup, make sure you fully understand what you need to do before starting the program.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -6,7 +6,7 @@ MassRelease will release entire boxes of Pokémon. The main use case is getting 
 
 <img src="images/MassRelease-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

@@ -13,7 +13,7 @@ This program will randomly seek out and encounter overworld Pokémon until it fi
 <img src="images/ShinyHuntAutonomous-Overworld-0.jpg" width="800">
 <img src="images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -10,7 +10,7 @@ This program is also used to build a reservoir of eggs for running the faster [E
 
 <img src="images/EggFetcher2-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

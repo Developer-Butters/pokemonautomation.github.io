@@ -5,7 +5,7 @@
 Find the current rng state based on Orbeetle's attack animations. 
 This program is meant to support manual rng manipulation.
 
-### Setup of Settings
+## Instructions
 
 1. Screen size: Must be 100% within the Switch settings
 2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)

@@ -28,7 +28,7 @@ Hatching 500 eggs without a shiny is quite common. This can happen approximately
 <img src="images/EggAuto-1.png">
 <img src="images/EggAuto-2.png">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

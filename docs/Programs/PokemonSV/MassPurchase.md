@@ -11,7 +11,7 @@ Automatically buy items.
 
 <img src="images/MassPurchase.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

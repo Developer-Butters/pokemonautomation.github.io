@@ -6,7 +6,7 @@ Shiny hunt Shaymin using the runaway method. This program is faster than [Legend
 
 <img src="images/ShinyHunt-Shaymin-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

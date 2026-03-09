@@ -8,7 +8,7 @@ Keep throwing ball until you catch the Pokémon you're fighting. In case of fail
 
 <img src="images/AutonomousBallThrower-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

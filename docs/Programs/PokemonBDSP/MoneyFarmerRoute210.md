@@ -13,7 +13,7 @@ This version of the Money Farmer uses a higher paying trainer (double) battle on
 
 <img src="images/MoneyFarmerRoute210-3.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

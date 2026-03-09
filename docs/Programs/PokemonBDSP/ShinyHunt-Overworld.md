@@ -10,7 +10,7 @@ This program does not work in the Grand Underground.
 
 Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/911482282295058453/2021-11-19_22-56-40.mp4
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

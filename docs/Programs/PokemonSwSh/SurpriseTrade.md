@@ -6,7 +6,7 @@ SurpriseTrade will surprise trade entire boxes of Pokémon. The main use case is
 
 This program is similar to brianuuuSonic's BoxSurpriseTrade, but is also tolerant to errors when changing boxes.
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

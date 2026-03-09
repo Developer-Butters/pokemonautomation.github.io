@@ -12,7 +12,7 @@ Touch trade boxes of Pokémon from a host Switch to a receiving Switch. The purp
 <img src="images/SelfTouchTrade-0.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

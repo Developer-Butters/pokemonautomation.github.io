@@ -45,7 +45,7 @@ Most people can keep their ride legendary in their party all the time since it's
 
 ---
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

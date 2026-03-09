@@ -10,7 +10,7 @@ This program will shiny hunt the berry tree encounters.
 
 Unlike the Shiny Hunt (Unattended) programs, the Autonomous programs require *no* calibration. This program needs a capture card to detect a shiny from its animation.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

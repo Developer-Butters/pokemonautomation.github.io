@@ -8,7 +8,7 @@ You can't shiny-hunt these, so you might as well go for stats...
 
 <img src="images/StatsReset-0.png">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

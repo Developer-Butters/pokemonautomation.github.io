@@ -11,7 +11,7 @@ For versions prior to v0.29, LP Farming used to be part of the Tera Self Farmer.
 
 <img src="images/LPFarmer-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

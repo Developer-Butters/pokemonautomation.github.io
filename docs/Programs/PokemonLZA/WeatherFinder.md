@@ -4,7 +4,7 @@
 
 Reset the day by siting on a bench until the desired weather is found.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

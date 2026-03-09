@@ -16,7 +16,7 @@ This program will automatically hunt for a shiny Regina trade and stop on a shin
 
 <img src="images/ShinyHuntAutonomous-IoATrade-0.jpg" width="800">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

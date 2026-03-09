@@ -4,7 +4,7 @@
 
 AmitySquarePickUpFarmer is used to farm items (rare berries and stickers) your walking Pokémon pick up in Amity Square.
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

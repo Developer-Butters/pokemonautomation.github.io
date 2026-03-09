@@ -8,7 +8,7 @@ This program can also be used to hunt for shiny raids or raids with high item re
 
 <img src="images/TeraSelfFarmer-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

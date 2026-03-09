@@ -13,7 +13,7 @@ This program does not use bike boosts, but is nevertheless roughly the same spee
 
 <img src="images/EggHatcher-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

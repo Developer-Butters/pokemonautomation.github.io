@@ -34,7 +34,7 @@ Like the encounter bots from Sword/Shield and BDSP, this encounter bot supports 
 
 <img src="images/ShinyHunt-AreaZeroPlatform-2.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

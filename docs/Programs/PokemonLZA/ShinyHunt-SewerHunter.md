@@ -14,7 +14,7 @@ Shiny hunt by running back and forth repeatedly in two sewer subzones.
 6. Skrelp + Inkay
 7. Ariados
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

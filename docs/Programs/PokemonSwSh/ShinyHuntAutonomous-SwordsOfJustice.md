@@ -14,7 +14,7 @@ This program will automatically hunt for a shiny Sword of Justice and automatica
 
 <img src="images/ShinyHuntAutonomous-SwordsOfJustice-0.jpg" width="800">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

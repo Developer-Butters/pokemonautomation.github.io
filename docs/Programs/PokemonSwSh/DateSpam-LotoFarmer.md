@@ -17,7 +17,7 @@ LotoFarmer will farm the loto. It requires activating the Y-Comm glitch.
 
 <img src="images/DateSpam-LotoFarmer-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

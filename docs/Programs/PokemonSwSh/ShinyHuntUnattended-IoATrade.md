@@ -53,7 +53,7 @@ This controls how long it takes to fly to Route 10. This delay can vary a lot fr
 
 If you find that your character does not move towards the Beartic soon after landing and the Beartic wanders too far from its spawn location, you will need to reduce this time. If you modify this value, you may need to recalibrate **"Start to Run Delay"**.
 
-### Setup of Settings
+## Instructions
 
 1. Text Speed: Fast
 2. Casual mode: Off

@@ -21,7 +21,7 @@ This program will detect shiny Pokémon, however, a better alternative for this 
 <img src="images/DateSpam-BerryFarmer2-0.png">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

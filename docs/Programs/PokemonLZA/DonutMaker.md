@@ -7,7 +7,7 @@ Make, reset, and keep donuts with the desired flavor powers.
 <img src="images/DonutMaker.png">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

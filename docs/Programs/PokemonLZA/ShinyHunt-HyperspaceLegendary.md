@@ -11,7 +11,7 @@ Shiny odds for the legendaries are affected by the Shiny Charm and Sparkling Pow
 <img src="images/ShinyHunt-HyperspaceLegendary-TerrakionShiny.jpg">
 <img src="images/ShinyHunt-HyperspaceLegendary-LatiasShiny.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

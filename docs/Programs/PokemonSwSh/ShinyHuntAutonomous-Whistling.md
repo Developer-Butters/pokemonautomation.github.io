@@ -16,7 +16,7 @@ For regular overworld Pokémon, use the [overworld bot](ShinyHuntAutonomous-Over
 <img src="images/ShinyHuntAutonomous-Whistling-0.jpg" width="800">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -4,7 +4,7 @@
 
 PoffinCooker is used to cook poffins with your Pokémon in Amity Square.
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

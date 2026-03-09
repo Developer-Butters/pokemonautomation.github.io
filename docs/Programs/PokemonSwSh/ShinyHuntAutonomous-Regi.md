@@ -22,7 +22,7 @@ This program will automatically hunt for a shiny Regi golem and automatically st
 <img src="images/ShinyHuntAutonomous-Regi-0.jpg" width="800">
 <img src="images/ShinyHuntAutonomous-Regi-Square-0.jpg" width="800">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

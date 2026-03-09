@@ -4,7 +4,7 @@
 
 This program will repeat the easy course of the flying trial at the Canyon Plaza for 10BP per run. The expected returns for this program is roughly at 400BP/hr (10BP per cycle of 87sec at roughly 98% success rate).
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

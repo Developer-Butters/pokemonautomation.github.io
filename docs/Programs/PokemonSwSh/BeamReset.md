@@ -17,7 +17,7 @@ Drop a wishing piece in, check if it's red or purple. Pause for you to check, th
 
 <img src="images/BeamReset-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

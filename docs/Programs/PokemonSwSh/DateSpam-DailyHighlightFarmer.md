@@ -17,7 +17,7 @@ Farm the daily highlight watt trader in Crown Tundra. It requires activating the
 
 <img src="images/DateSpam-DailyHighlightFarmer-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

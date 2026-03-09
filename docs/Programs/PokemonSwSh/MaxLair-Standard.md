@@ -15,7 +15,7 @@ This program runs adventures with a specific boss until a stop condition is reac
 
 This program normally runs with random paths, but it can be configured to keep a specific path by setting the host to reset. (thus achieving the "Keep Path" functionality from the original AutoMaxLair)
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

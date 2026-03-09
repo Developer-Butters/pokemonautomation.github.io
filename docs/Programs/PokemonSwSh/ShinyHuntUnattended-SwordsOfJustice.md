@@ -59,7 +59,7 @@ If this still doesn't work, then it may be impossible to completely avoid both f
 
 If the variation is so high such that it will run from more than 50% of the shiny encounters, then it becomes more time efficient to use the [ShinyHuntUnattended-StrongSpawn](ShinyHuntUnattended-StrongSpawn.md) program instead.
 
-### Setup of Settings
+## Instructions
 
 1. Text Speed: Fast
 2. Casual mode: Off

@@ -9,7 +9,7 @@ Duplicate Pokémon using the God Egg/MissingNo.
 > Keep in mind that the God Egg is considered a form of hacking since there is no known way to obtain it without someone having a hacked Switch.*
 
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

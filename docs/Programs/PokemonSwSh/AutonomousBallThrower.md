@@ -13,7 +13,7 @@ Keep throwing ball until you catch the Pokémon you're fighting. In case of fail
 
 ---
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

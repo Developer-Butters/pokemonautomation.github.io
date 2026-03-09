@@ -8,7 +8,7 @@ Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/1036457871
 
 <img src="images/CramomaticRNG-0.png">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

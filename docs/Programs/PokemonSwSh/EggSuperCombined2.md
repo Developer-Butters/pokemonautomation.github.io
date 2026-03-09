@@ -19,7 +19,7 @@ EggSuperCombined2 is the most optimized of the egg programs in this package. Whe
 
 <img src="images/EggCombined2-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

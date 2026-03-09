@@ -7,7 +7,7 @@ Reset for a shiny starter.
 <img src="images/StarterReset-0.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

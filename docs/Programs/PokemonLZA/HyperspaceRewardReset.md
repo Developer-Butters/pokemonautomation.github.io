@@ -7,7 +7,7 @@ Reset in front of a Hyperspace Battle Zone trainer to receive a specific reward.
 <img src="images/HyperspaceRewardReset.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -9,7 +9,7 @@ Mega Dimension DLC gives a faster method for shiny hunting them via Hyperspace W
 <img src="images/AutoFossil.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

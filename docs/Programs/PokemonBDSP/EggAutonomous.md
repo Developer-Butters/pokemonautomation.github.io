@@ -10,7 +10,7 @@ Furthermore, this program doesn't care about step counts, egg-warming, or early 
 
 <img src="images/EggAutonomous-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

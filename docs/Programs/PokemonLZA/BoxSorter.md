@@ -10,7 +10,7 @@ The program helps you create your living dex and remove redundant regular and sh
 <img src="images/BoxSorter.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

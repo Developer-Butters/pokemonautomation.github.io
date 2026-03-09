@@ -38,7 +38,7 @@ This program blindly throws balls without context. Thus the only way it can work
    > 2. Reduce the damage that you take such that passive healing (from Leftovers) is sufficient to stay alive.
 
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

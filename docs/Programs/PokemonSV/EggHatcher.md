@@ -12,7 +12,7 @@ Hatch boxes of Pokémon.
 
 <img src="images/EggHatcher-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

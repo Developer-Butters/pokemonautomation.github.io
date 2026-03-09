@@ -14,7 +14,7 @@ As its name implies, this program will automatically buy clothing.
 
 <!-- <img src="images/ClothingBuyer-0.jpg"> -->
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

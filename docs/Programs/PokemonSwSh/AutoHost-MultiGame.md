@@ -24,7 +24,7 @@ If video feedback is enabled, it will keep track of stats and will waste a lot l
 > 
 > If you care about your den, get rid of all your wishing pieces. They are easy to get back later with watt farming.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -10,7 +10,7 @@ While this program is intended for catching a knocked out Pokémon, it can be us
 <img src="images/PostKillCatcher.png">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

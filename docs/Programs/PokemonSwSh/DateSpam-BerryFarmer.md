@@ -22,7 +22,7 @@ BerryFarmer will farm berries from a tree. It requires activating the Y-Comm gli
 
 <img src="images/DateSpam-BerryFarmer-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

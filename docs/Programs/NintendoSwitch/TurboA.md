@@ -15,7 +15,7 @@ TurboA does exactly what its name implies - it endlessly presses A. The purpose 
 
 <img src="images/TurboA-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 1. Casual mode: Off
 

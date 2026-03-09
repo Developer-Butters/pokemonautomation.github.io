@@ -12,7 +12,7 @@ If video feedback is enabled, it will keep track of stats, automatically stop on
 <img src="images/DenRoller-0.png">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

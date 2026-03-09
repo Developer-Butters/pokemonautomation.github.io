@@ -6,7 +6,7 @@ This program will shiny hunt fishing encounters.
 
 <img src="images/ShinyHunt-Fishing-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

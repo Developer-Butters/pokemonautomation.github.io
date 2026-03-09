@@ -7,7 +7,7 @@
 This program will perform RNG manipulation to get rare items (especially Beast Ball and Dream Ball) from the Daily Highlight Watt Trader in the Snowslide Slope area of the Crown Tundra.
 The success rate for each manipulated highlight is around 80%.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

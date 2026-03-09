@@ -17,7 +17,7 @@ This program catches Pokémon the same way as the [Tera Farmer](TeraSelfFarmer.m
 
 ---
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

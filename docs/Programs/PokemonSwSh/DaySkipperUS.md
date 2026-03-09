@@ -25,7 +25,7 @@ On the Switch 1, the exact speed will depend on the real life year. For the year
 
 <img src="images/DaySkipperUS-0.png">
 
-### Setup of Settings
+## Instructions
 
 This setup here depends on whether you are on a Switch 1 or a Switch 2.
 

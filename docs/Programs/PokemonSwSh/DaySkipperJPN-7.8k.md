@@ -24,7 +24,7 @@ While the 7.8k skipper can recover from minor errors, major errors will cause it
 
 <img src="images/DaySkipperJPN-7.8k-0.png">
 
-### Setup of Settings
+## Instructions
 
 1. Screen size: Must be 100% within the Switch settings
 2. System time: Un-synced

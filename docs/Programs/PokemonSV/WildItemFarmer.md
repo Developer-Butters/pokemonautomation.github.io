@@ -38,7 +38,7 @@ However, this program has two major failure cases:
 
 In either case, the program will detect this error condition and stop. There is ongoing research on how to minimize these scenarios as well as how to recover from them.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

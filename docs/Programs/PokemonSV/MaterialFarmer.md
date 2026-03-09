@@ -11,7 +11,7 @@ This program works by making a sandwich to boost spawns, then repeatedly sending
 
 **NOTE: This is not a shiny hunting program. This program will not detect shiny Pokemon.**
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -10,7 +10,7 @@
 Trade boxes of Pokémon between two Switches locally.
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

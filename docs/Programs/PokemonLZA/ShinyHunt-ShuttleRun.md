@@ -10,7 +10,7 @@ Shiny hunt by running back and forth in Lumiose City.
 
 More routes and even customised routes are in planning.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

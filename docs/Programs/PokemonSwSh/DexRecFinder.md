@@ -12,7 +12,7 @@ If you are hunting authentic Sinistea, do not use a Dex Rec. Dex Rec for Siniste
 Boosting the Sinistea (or anything in the area you are hunting) will *lower* the chances of encounter authentic Sinistea.
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

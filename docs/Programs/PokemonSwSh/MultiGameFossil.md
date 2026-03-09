@@ -8,7 +8,7 @@ MultiGameFossil is a more advanced fossil reviving program that can revive fossi
 
 <img src="images/MultiGameFossil-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 > **These must be setup on *each* participating save.**
 

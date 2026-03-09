@@ -7,7 +7,7 @@ Purchase clothing from shops.
 <img src="images/ClothingBuyer.png">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

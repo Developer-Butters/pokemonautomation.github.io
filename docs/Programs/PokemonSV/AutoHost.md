@@ -58,7 +58,7 @@ For speed and convenience of [Fast Code Entry (FCE)](FastCodeEntry.md) users, th
 
 ---
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -21,7 +21,7 @@ The stop conditions can be specified on a per-boss basis:
 
 Since this program does not know the boss for each adventure, win rates will be lower than the other modes.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

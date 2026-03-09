@@ -17,7 +17,7 @@ WattFarmer will farm watts from a wishing piece beam. It requires activating the
 
 <img src="images/DateSpam-WattFarmer-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

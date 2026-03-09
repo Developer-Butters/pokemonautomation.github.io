@@ -17,7 +17,7 @@ This program is not restricted to raids that can be OHKO'ed. By adjusting the ap
 
 <img src="images/CandyFarmer.jpg" width="90%">
 
-### Setup of Settings
+## Instructions
 
 Setup for All Switches:
 

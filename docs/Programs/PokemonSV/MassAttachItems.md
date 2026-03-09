@@ -8,7 +8,7 @@ When combined with [Self Box Trade](SelfBoxTrade.md), this program is useful for
 
 <img src="images/MassAttachItems-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

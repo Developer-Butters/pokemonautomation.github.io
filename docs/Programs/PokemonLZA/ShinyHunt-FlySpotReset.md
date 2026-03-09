@@ -25,7 +25,7 @@ With the Shiny Charm you will get a shiny Pokémon quite fast if there are many 
 Shiny sound detection will happen at most once to avoid detecting the same shiny Pokémon over and over.
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

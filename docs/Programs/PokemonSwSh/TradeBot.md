@@ -8,7 +8,7 @@ The program can sustain a trade every ~103 seconds. Thus it takes almost an hour
 
 This program is experimental and is more suited for high-demand and high-quantity giveaways. As with SurpriseTrade, this program will skip Pokémon if no trade happens. Thus there will be many untraded Pokémon. Likewise, you will need many Pokémon to sustain a giveaway that lasts for a long period of time unattended.
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

@@ -13,7 +13,7 @@ This program will repeatly operate the Item Printer for a chance at rare items (
 
 The item printer depletes Pokémon materials and saves after each iteration, be sure that if there are Pokémon materials you want to keep (to make TMs etc.) that you don't overrun this program.
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

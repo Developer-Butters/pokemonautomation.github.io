@@ -14,7 +14,7 @@ This program will automatically hunt for a shiny strong spawn and automatically 
 
 <img src="images/ShinyHuntAutonomous-StrongSpawn-0.jpg" width="800">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

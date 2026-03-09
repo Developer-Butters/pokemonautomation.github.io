@@ -33,7 +33,7 @@ It is not known if this program works on:
 
 <img src="images/LegendaryReset-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

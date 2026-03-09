@@ -25,9 +25,9 @@ Be aware that the complexity of this program makes it inherently less reliable t
 
 <img src="images/EggCombined2-0.jpg">
 
-### Setup of Settings
+## Instructions
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -13,7 +13,7 @@ Because the shiny sound has a much smaller audible radius than the spawn radius,
 <img src="images/ShinyHunt-BenchSit.jpg">
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

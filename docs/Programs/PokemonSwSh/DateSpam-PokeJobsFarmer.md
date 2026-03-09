@@ -5,7 +5,7 @@ This program farms Poké Jobs in order to make Pokémons gain experience without
 
 <img src="images/DateSpam-PokeJobsFarmer-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

@@ -10,7 +10,7 @@ Unlike the other egg fetcher, it will fetch a chosen number of eggs before switc
 
 <img src="images/EggFetcher2-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Game Settings:**
 

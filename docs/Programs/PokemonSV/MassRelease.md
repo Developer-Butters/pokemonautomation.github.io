@@ -11,7 +11,7 @@ Mass release boxes of Pokémon.
 
 <img src="images/MassRelease-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

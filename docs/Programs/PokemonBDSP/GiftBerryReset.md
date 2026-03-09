@@ -6,7 +6,7 @@ Reset for a rare berry given by the berry NPC in Pastoria City.
 
 <img src="images/GiftBerryReset-0.jpg">
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 

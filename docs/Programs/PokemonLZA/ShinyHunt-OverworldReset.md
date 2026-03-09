@@ -16,7 +16,7 @@ The important aspect of this method is that you must be close enough to the spaw
 (image credit: Scotteh)
 
 
-### Setup of Settings
+## Instructions
 
 **Switch Settings:**
 
