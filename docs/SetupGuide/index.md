@@ -189,12 +189,19 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 
 <img src="Images/MultipleSwitches.jpg">
 
+## Other notes
+
+### Updating
+To update the Computer Control program, simply download the latest program, as per the [General Setup](GeneralSetup.md) instructions. If you wish, you may copy over your old `UserSettings` folder and copy it into the new program folder. This will copy over your old stats and settings.
+
+Firmware updates on the microcontroller are less frequent, but they do happen occasionally. You will need to re-flash your microcontroller as before. You only need to update the firmware if the program specifically tells you to. You will see red text: "Incompatible protocol. Device: ... Please flash your microcontroller (e.g. ESP32, Pico W, Arduino) with the .bin/.uf2/.hex that came with this version of the program.". See [here](Reflash.md) for links to the flashing section for each microcontroller setup.
 
 <hr>
 
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
