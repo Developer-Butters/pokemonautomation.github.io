@@ -42,6 +42,10 @@ Set this to the number of nuggets that you wish to farm. This program gathers ~5
 
 Go to the Switch Home to idle when finished.
 
+### Periodically Save:
+
+Save every x number of nuggets. Zero disables saving. Reduces loss in case of crashes, will negatively impact efficiency. 
+
 <img src="images/NuggetBridgeFarmer-MaxNuggets.jpg">
 
 ## Credits
