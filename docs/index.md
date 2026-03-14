@@ -3,7 +3,7 @@ title: Landing Page
 description: "Free software to automate Pokémon games on retail Switch and Switch 2. Check our Legends: Z-A Donut Maker program to make perfect shiny hunting donuts!"
 ---
 
-#  Pokémon Automation (Landing Page)
+#  Pokémon Automation
 
 Welcome to Pokémon Automation's official GitHub group.
 
@@ -64,6 +64,7 @@ We currently have automation for the following games/platforms:
 - [Pokémon Legends Arceus](Programs/index.md#pokemon-legends-arceus)
 - [Pokémon Scarlet/Violet](Programs/index.md#pokemon-scarlet-and-violet)
 - [Pokémon Legends ZA](Programs/index.md#pokemon-legends-z-a)
+- [Pokémon FireRed and LeafGreen (Nintendo Switch)](Programs/index.md#pokemon-firered-and-leafgreen-nintendo-switch)
 - [Zelda: Tears of the Kingdom](Programs/index.md#zelda-tears-of-the-kingdom)
 
 
