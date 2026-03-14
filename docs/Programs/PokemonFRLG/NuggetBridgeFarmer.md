@@ -2,24 +2,35 @@
 
 ## Program Description
 
-Repeatedly loose the battle against the undercover Team Rocket Grunt at the end of Nugget Bridge to farm nuggets.
+Repeatedly lose the battle against the undercover Team Rocket Grunt at the end of Nugget Bridge to farm nuggets.
 
 <img src="images/NuggetBridgeFarmer.jpg">
 
-## Prerequisites
+## Instructions
 
-1. You have **NOT** defeated the Team Rocket Grunt (mystery trainer) at the end of the bridge.
-2. You have defeated the your rival.
-3. You have defeated the five trainers on the bridge.
+**Switch Settings:**
 
-## Game Settings
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 
 1. Text Speed: Fast
 2. Battle Scene: Off
 3. Button Mode: Help
 4. Frame: Type 1
 
-## Instructions
+**Other Setup:**
+
+1. You have **NOT** defeated the Team Rocket Grunt (mystery trainer) at the end of the bridge.
+2. You have defeated the your rival.
+3. You have defeated the five trainers on the bridge.
+
+### Instructions
 
 1. (Optional) Spend all the money you currently have.
     - You will loose [~72 (24 x 3)](https://bulbapedia.bulbagarden.net/wiki/Black_out#Formula_for_money_lost) for each nugget. So you might as well spend what you have prior to starting. 
