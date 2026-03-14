@@ -358,8 +358,14 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 
 | **Program** | **Feedback** | **Controllers** |
 | --- | --- | --- |
-| [Gift Reset](PokemonFRLG/GiftReset.md) {.nowrap}             |  Video           | All |
-| [Legendary Reset](PokemonFRLG/LegendaryReset.md) {.nowrap}   |  Video + Audio   | All |
+| **Farming:** |
+| [Nugget Bridge Farmer](PokemonFRLG/NuggetBridgeFarmer.md) {.nowrap}    |  Video           | All |
+| [Pickup Farmer](PokemonFRLG/PickupFarmer.md) {.nowrap}                 |  Video           | All |
+| **Shiny Hunting:** |
+| [Gift Reset](PokemonFRLG/GiftReset.md) {.nowrap}                       |  Video           | All |
+| [Legendary Reset](PokemonFRLG/LegendaryReset.md) {.nowrap}             |  Video + Audio   | All |
+| [Shiny Hunt - Overworld](PokemonFRLG/ShinyHunt-Overworld.md) {.nowrap} |  Video + Audio   | All |
+| [Prize Corner Reset](PokemonFRLG/PrizeCornerReset.md) {.nowrap}        |  Video           | All |
 
 
 
