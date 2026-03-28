@@ -361,7 +361,7 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 | **Farming:** |
 | [Nugget Bridge Farmer](PokemonFRLG/NuggetBridgeFarmer.md) {.nowrap}    |  Video           | All |
 | [Pickup Farmer](PokemonFRLG/PickupFarmer.md) {.nowrap}                 |  Video           | All |
-| [EV Trainer](PokemonFRLG/EvTrainer.md) {.nowrap}                 |  Video           | All |
+| [EV Trainer](PokemonFRLG/EvTrainer.md) {.nowrap}                       |  Video           | All |
 | **Shiny Hunting:** |
 | [Gift Reset](PokemonFRLG/GiftReset.md) {.nowrap}                       |  Video           | All |
 | [Legendary Reset](PokemonFRLG/LegendaryReset.md) {.nowrap}             |  Video + Audio   | All |
