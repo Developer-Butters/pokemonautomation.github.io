@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Repeatedly defeat wild to EV train your Pokémon.
+Repeatedly defeat wild encounters to EV train your Pokémon.
 
 ## Instructions
 
