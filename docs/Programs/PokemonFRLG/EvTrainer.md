@@ -4,8 +4,6 @@
 
 Repeatedly defeat wild to EV train your Pokémon.
 
-<img src="images/NuggetBridgeFarmer.jpg">
-
 ## Instructions
 
 **Switch Settings:**
@@ -43,7 +41,7 @@ Repeatedly defeat wild to EV train your Pokémon.
 4. A Pokémon that knows Surf in your party (at any position).
     - Surf is only necessary for Sp. Defense training.
 
-<img src="images/EvTrainer-0.png">
+<img src="images/EvTrainer-0.jpg">
 
 ### Instructions
 
