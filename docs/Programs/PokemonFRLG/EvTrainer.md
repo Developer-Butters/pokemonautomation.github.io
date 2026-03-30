@@ -45,8 +45,9 @@ Repeatedly defeat wild encounters to EV train your Pokémon.
 
 ### Instructions
 
-1. (Optional) Equip your lead Pokémon with a Macho Brace.
-    - This doubles all EVs gained from battles. If you do this, make sure you only enter half of the EVs you'd like to earn in this program's options.
+1. (Optional) Equip your lead Pokémon with a Smoke Ball.
+    - A smoke ball will ensure that you never fail to run from wild encounters when out of PP. This is not necessary if your lead Pokémon has sufficiently high speed.
+    - Alternatively, equip your lead Pokémon with a Macho Brace. This doubles all EVs gained from battles. If you do this, make sure you only enter half of the EVs you'd like to earn in this program's options.
 2. (Optional) Equip a different Pokémon in your party with an Exp. Share.
     - This allows the second Pokémon to earn EVs in addition to your lead. Note that these EVs are NOT doubled by a Macho Brace held by your lead Pokémon.
 3. Start the program from anywhere in Kanto where Teleport or Fly can be used.
