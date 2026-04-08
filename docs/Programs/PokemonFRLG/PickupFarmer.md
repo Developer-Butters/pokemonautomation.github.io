@@ -1,10 +1,8 @@
-# Nugget Bridge Farmer
+# Pickup Farmer
 
 ## Program Description
 
 Repeatedly defeat low-level wild encounters to farm berries, nuggets, rare candies, PP-UP, and TM10.
-
-<img src="images/NuggetBridgeFarmer.jpg">
 
 ## Instructions
 
@@ -34,7 +32,7 @@ Repeatedly defeat low-level wild encounters to farm berries, nuggets, rare candi
     - This move needs to be the first one selectable from POKéMON screen. If this is not the case, use a different Pokémon or forget any other learned HMs via the Move Deleter in Fuchsia City.
     - If using Fly, the Thunderbadge needs to have be obtained before running this program.
 
-<img src="images/PickupFarmer-0.png">
+<img src="images/PickupFarmer-0.jpg">
 
 ### Instructions
 
