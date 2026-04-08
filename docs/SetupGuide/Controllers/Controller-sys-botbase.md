@@ -133,7 +133,7 @@ Most programs will block keyboard inputs if the program is running. So if you ha
 
 The response time is how long it takes to round-trip from your computer to sys-botbase and back. It will always be longer than a ping due to overhead within sys-botbase and/or Atmosphere.
 
-High reponse time used to be a huge problem with sys-botbase 2.4. But starting from sys-botbase 3.0, it is less of an issue since it can buffer commands to retain timing precision.
+High response time used to be a huge problem with sys-botbase 2.4. But starting from sys-botbase 3.0, it is less of an issue since it can buffer commands to retain timing precision.
 
 ### "Last Ack: xxx seconds ago"
 
