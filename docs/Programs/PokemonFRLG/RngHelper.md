@@ -29,8 +29,8 @@ This program includes options for several RNG targets:
 - Articuno / Zapdos / Moltres
 - Mewtwo
 - Hypno (Berry Forest)
-- Ho-oh (Navel Island)
-- Lugia (Navel Island)
+- Ho-oh (Navel Rock)
+- Lugia (Navel Rock)
 - Deoxys (Birth Island)
 
 <img src="images//RngHelper-1.jpg" width="600">
@@ -104,7 +104,7 @@ For all static encounters, make sure you have all Pokémon and items you need to
 | **Static Overworld Encounters**<br>- Valid for anything not otherwise listed in this table <br>- Save facing the Pokémon <br>- For Deoxys, solve the puzzle on Birth Island and save in front of the red triangle | [<img src="images//RngHelper-deoxys.jpg" width="600">](images//RngHelper-deoxys.jpg) |
 | **Snorlax**<br>- Obtain the Pokéflute <br>- Save facing Snorlax | [<img src="images//RngHelper-snorlax.jpg" width="600">](images//RngHelper-snorlax.jpg) |
 | **Mewtwo**<br>- Save facing the Mewtwo | --- |
-| **Ho-oh**<br>- Save at a particular spot at the top of Navel Island <br>- The encounter with Ho-oh is triggered after taking another step northward | [<img src="images//RngHelper-hooh.jpg" width="600">](images//RngHelper-hooh.jpg) |
+| **Ho-oh**<br>- Save at the top of the steps at the very top of Navel Rock <br>- The encounter with Ho-oh is triggered after taking another step northward | [<img src="images//RngHelper-hooh.jpg" width="600">](images//RngHelper-hooh.jpg) |
 | **Berry Forest Hypno**<br>- Save facing Lostelle in Berry Forest | --- |
 
 
