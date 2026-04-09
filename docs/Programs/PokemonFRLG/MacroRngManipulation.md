@@ -20,7 +20,6 @@ RNG Manipulation in the Nintendo Switch version of **Pokémon Fire Red & Leaf Gr
 2. [External Tools](#external-tools)
 3. [Macro Tools](#macro-tools)
 4. [How to Use the Macros](#how-to-use-the-macros)
-5. [Troubleshooting](#troubleshooting)
 
 ---
 
