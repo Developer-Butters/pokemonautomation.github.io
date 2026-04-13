@@ -47,7 +47,7 @@ Repeatedly defeat wild encounters to EV train your Pokémon.
 
 1. (Optional) Equip your lead Pokémon with a Smoke Ball.
     - A smoke ball will ensure that you never fail to run from wild encounters when out of PP. This is not necessary if your lead Pokémon has sufficiently high speed.
-    - Alternatively, equip your lead Pokémon with a Macho Brace. This doubles all EVs gained from battles. If you do this, make sure you only enter half of the EVs you'd like to earn in this program's options.
+    - Alternatively, equip your lead Pokémon with a Macho Brace. This doubles all EVs gained from battles. If you do this, make sure you enable the Macho Brace checkbox option.
 2. (Optional) Equip a different Pokémon in your party with an Exp. Share.
     - This allows the second Pokémon to earn EVs in addition to your lead. Note that these EVs are NOT doubled by a Macho Brace held by your lead Pokémon.
 3. Start the program from anywhere in Kanto where Teleport or Fly can be used.
@@ -55,43 +55,51 @@ Repeatedly defeat wild encounters to EV train your Pokémon.
 
 ## Options
 
-### HP EVs
+### HP EVs:
 
 Set this to the desired number of HP EVs to be earned (0-255).
 
-### Attack EVs
+### Attack EVs:
 
 Set this to the desired number of Attack EVs to be earned (0-255).
 
-### Defense EVs
+### Defense EVs:
 
 Set this to the desired number of Defense EVs to be earned (0-255).
 
-### Sp. Attack EVs
+### Sp. Attack EVs:
 
 Set this to the desired number of Sp. Attack EVs to be earned (0-255).
 
-### Sp. Defense EVs
+### Sp. Defense EVs:
 
 Set this to the desired number of Sp. Defense EVs to be earned (0-255).
 
-### Speed EVs
+### Speed EVs:
 
 Set this to the desired number of Speed EVs to be earned (0-255).
 
-### Prevent Pokémon from Evolving ###
+### Macho Brace:
+
+A Macho Brace held by your lead Pokémon doubles all its earned EVs. It does NOT double any EVs earned by other Pokémon via Exp. Share. 
+
+### Pokérus:
+
+If a Pokémon has ever had Pokérus, even if it has been cured, all of its earned EVs will be doubled. This stacks with Macho Brace. 
+
+### Prevent Pokémon from Evolving:
 
 If a Pokémon starts to evolve, cancel the evolution. This will happen each time your Pokémon tries to evolve, slowing the program down very slightly. If not checked, the Pokémon will be allowed to evolve. Either way, the program will continue.
 
-### Quit When a New Move is Learned ###
+### Quit When a New Move is Learned:
 
 If a Pokémon tries to learn a new move, stop the program. This is useful if you don't want to miss the opportunity to teach your lead Pokémon a particular move. If not checked, the move will not be learned and the program will continue.
 
-### Ignore Shinies ###
+### Ignore Shinies:
 
 If checked, the program will not stop when a shiny is detected, and it will be defeated. Otherwise, the program will stop when a shiny is encountered.
 
-### Take Video ###
+### Take Video:
 
 Record a video when a shiny Pokémon is found.
 
