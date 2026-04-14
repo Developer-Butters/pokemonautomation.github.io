@@ -83,9 +83,13 @@ Set this to the desired number of Speed EVs to be earned (0-255).
 
 A Macho Brace held by your lead Pokémon doubles all its earned EVs. It does NOT double any EVs earned by other Pokémon via Exp. Share. 
 
+Note that if an odd number of EVs is entered, the program will undershoot the target EV amount (e.g. if 253 is entered, the program will stop at 252).
+
 ### Pokérus:
 
 If a Pokémon has ever had Pokérus, even if it has been cured, all of its earned EVs will be doubled. This stacks with Macho Brace. 
+
+Note that when stacked with Macho Brace, if the number of EVs entered is not divisible by 4, the program will undershoot the target EV amount (e.g. if 255 is entered, the program will stop at 252).
 
 ### Prevent Pokémon from Evolving:
 
