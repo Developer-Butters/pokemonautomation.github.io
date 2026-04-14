@@ -1,4 +1,4 @@
-# RNG Helper
+# RNG Helper (in development)
 
 ## Program Description
 
