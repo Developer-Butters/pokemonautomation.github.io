@@ -31,6 +31,7 @@ This is currently confirmed to work for:
 ## Setup
 
 1. Have the Pokémon you want to check in consecutive boxes. It is okay to have Eggs and empty spaces.
+2. Ensure Stats view or IV Judge mode is enabled within the box.
 
 ## Instructions
 

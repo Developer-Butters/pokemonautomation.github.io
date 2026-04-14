@@ -27,7 +27,7 @@ This table lists all the device and controller combinations that we support in t
 
 ### Deprecated Setups:
 
-These are older setups that are still supported, but no longer recommended for new users.
+These are older setups that are still supported, but will be removed in the future. Please do not use these setups.
 
 | | **Device Type** | **Supported Controllers** | **Setup Difficulty<br>(Scale 1-10)** | **Guides** |
 | --- | --- | --- | --- | --- |

@@ -130,8 +130,8 @@ These recommendations are not mutually exclusive. Feel free to get multiple setu
 | You are completely new to automation. | Pico W {.nowrap} | Cheapest. Easiest to setup. |
 | You are a heavy user of automation with multiple Switches running 24/7. | ESP32-S3 {.nowrap} | Most stable and reliable. No hassle after setup. |
 | You are a frequent traveler. | Pico W or ESP32 {.nowrap} | Fewer cables = less hassle |
-| You are an existing Computer Control user who already has the Arduino/Teensy setup. | Keep what you have. {.nowrap} | See the [Controller List](../ControllerList.md) to find the guide to re-setup your hardware. |
-| You are coming from another automation project that uses ATmega MCUs. (Arduino, Teensy 2.0, Pro Micro) | Keep what you have. {.nowrap} | We support your setup! See the [Controller List](../ControllerList.md) to find the appropriate guide. |
+| You are an existing Computer Control user who already has the Arduino/Teensy setup. | ESP32-S3 {.nowrap} | Support for AVR8 controllers (Arduino/Teensy) will be discontinued in the near future. |
+| You are coming from another automation project that uses ATmega MCUs. (Arduino, Teensy 2.0, Pro Micro) | ESP32-S3 {.nowrap} | Support for AVR8 controllers (Arduino/Teensy) will be discontinued in the near future. |
 | You are an experienced CFW user. | sys-botbase 3 {.nowrap} | This setup is designed specifically for you at no additional cost (beyond a capture card)! |
 
 A full comparison of prices and difficulty of setup can be found on the [Controller List](../ControllerList.md#setup-comparison-table).
