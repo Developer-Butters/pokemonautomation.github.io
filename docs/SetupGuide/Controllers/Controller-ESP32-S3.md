@@ -190,7 +190,7 @@ You will notice that there are 7 controller options:
 - [NS1: Wired Left Joycon](../ControllerGuide.md#ns1-wired-leftright-joycon)
 - [NS1: Wired Right Joycon](../ControllerGuide.md#ns1-wired-leftright-joycon)
 
-Click on the link for detailed documentation for the controller type. "None" simply idles the ESP32-S3 so it isn't trying to connect to a Switch. The others tell the ESP32-S3 to act as that controller respectively. Setting to "None" is a convenient way to disconnect the Pico so you can connect your physical controller.
+Click on the link for detailed documentation for the controller type. "None" simply idles the ESP32-S3 so it isn't trying to connect to a Switch. The others tell the ESP32-S3 to act as that controller respectively. Setting to "None" is a convenient way to disconnect the ESP32-S3 so you can connect your physical controller.
 
 
 ### Step 6: You are done!
