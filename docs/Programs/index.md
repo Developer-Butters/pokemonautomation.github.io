@@ -167,6 +167,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | Game Settings | --- | --- |
 ||
 | **General:** |
+| [Autostory](PokemonBDSP/AutoStory.md) {.nowrap}             | Video | All |
 | [Mass Release](PokemonBDSP/MassRelease.md) {.nowrap}                           |       | All |
 | [Autonomous Ball Thrower](PokemonBDSP/AutonomousBallThrower.md) {.nowrap}      | Video | All |
 ||
