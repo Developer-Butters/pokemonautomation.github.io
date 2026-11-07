@@ -39,11 +39,8 @@ These will be set automatically during the tutorial. If starting later in the st
 
 For the outside-help route, use the starter obtained on the Autostory save file. Train and evolve that same Pokémon through HOME, then return it to its original save so that it will obey you regardless of your badge count.
 
-Your starter should be fully evolved, level 100 and have the IV/EV spread listed below. When it returns to BDSP, place it in the first party slot and box the other pokemon in the first slot of box one. This is important for later in the story.
+Your starter should be fully evolved, level 100 and have the IV/EV spread listed below (use hyper-training and vitamins). When it returns to BDSP, place it in the first party slot and box the other pokemon in the first slot of box one. This is important for later in the story.
 
-These are the current Outside Help preparation targets, not experimentally established minimum stats. Torterra and Empoleon still need live League verification. The earlier Torterra battle plan also assumed a Jolly nature.
-
-An IV target of 31 can be met naturally or through Hyper Training. Torterra does not need a specific Special Attack IV for this moveset. [About Hyper Training](https://www.pokemon.com/us/strategy/train-raid-and-hatch-pokemon-to-breed-victories-in-pokemon-sword-and-pokemon-shield).
 
 ## Torterra
 
