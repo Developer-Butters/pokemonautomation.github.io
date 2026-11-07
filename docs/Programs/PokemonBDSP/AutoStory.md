@@ -45,16 +45,18 @@ These are the current Outside Help preparation targets, not experimentally estab
 
 An IV target of 31 can be met naturally or through Hyper Training. Torterra does not need a specific Special Attack IV for this moveset. [About Hyper Training](https://www.pokemon.com/us/strategy/train-raid-and-hatch-pokemon-to-breed-victories-in-pokemon-sword-and-pokemon-shield).
 
+Vitamin quantities assume you have reset existing EVs and are training in Scarlet/Violet. Complete both 252-EV stats first, then use the HP Up. This gives 6 HP EVs, which provide the same stat increase as the listed 4 HP EVs. See [vitamin effects and limits](https://bulbapedia.bulbagarden.net/wiki/Ability_enhancer) and [EV stat calculations](https://bulbapedia.bulbagarden.net/wiki/Effort_values).
+
 ## Torterra
 
-| Stat | IV target | EVs |
-|---|---|---|
-| HP | 31 | 4 |
-| Attack | 31 | 252 |
-| Defense | 31 | 0 |
-| Special Attack | Any | 0 |
-| Special Defense | 31 | 0 |
-| Speed | 31 | 252 |
+| Stat | IV target | EVs | Buy list |
+|---|---|---|---|
+| HP | 31 | 4 | 1 HP Up |
+| Attack | 31 | 252 | 26 Protein |
+| Defense | 31 | 0 | None |
+| Special Attack | Any | 0 | None |
+| Special Defense | 31 | 0 | None |
+| Speed | 31 | 252 | 26 Carbos |
 
 **Moves, in slot order:**
 
@@ -65,14 +67,14 @@ An IV target of 31 can be met naturally or through Hyper Training. Torterra does
 
 ## Infernape
 
-| Stat | IV target | EVs |
-|---|---|---|
-| HP | 31 | 4 |
-| Attack | 31 | 252 |
-| Defense | 31 | 0 |
-| Special Attack | 31 | 252 |
-| Special Defense | 31 | 0 |
-| Speed | 31 | 0 |
+| Stat | IV target | EVs | Buy list |
+|---|---|---|---|
+| HP | 31 | 4 | 1 HP Up |
+| Attack | 31 | 252 | 26 Protein |
+| Defense | 31 | 0 | None |
+| Special Attack | 31 | 252 | 26 Calcium |
+| Special Defense | 31 | 0 | None |
+| Speed | 31 | 0 | None |
 
 **Moves, in slot order:**
 
@@ -83,14 +85,14 @@ An IV target of 31 can be met naturally or through Hyper Training. Torterra does
 
 ## Empoleon
 
-| Stat | IV target | EVs |
-|---|---|---|
-| HP | 31 | 4 |
-| Attack | 31 | 252 |
-| Defense | 31 | 0 |
-| Special Attack | 31 | 252 |
-| Special Defense | 31 | 0 |
-| Speed | 31 | 0 |
+| Stat | IV target | EVs | Buy list |
+|---|---|---|---|
+| HP | 31 | 4 | 1 HP Up |
+| Attack | 31 | 252 | 26 Protein |
+| Defense | 31 | 0 | None |
+| Special Attack | 31 | 252 | 26 Calcium |
+| Special Defense | 31 | 0 | None |
+| Speed | 31 | 0 | None |
 
 **Moves, in slot order:**
 
