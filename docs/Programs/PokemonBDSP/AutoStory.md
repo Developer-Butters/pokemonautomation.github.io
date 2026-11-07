@@ -50,10 +50,10 @@ Your starter should be fully evolved, level 100, and in the first party slot. Se
 
 ## Infernape
 
-1. Brick Break — 15 PP
+1. Thunder Punch — 15 PP
 2. Flamethrower — 15 PP
 3. Earthquake — 10 PP
-4. Mach Punch — 30 PP
+4. Brick Break — 15 PP
 
 ## Empoleon
 
@@ -70,7 +70,8 @@ Your starter should be fully evolved, level 100, and in the first party slot. Se
 4. Teach the moves listed above in the specified slot order.
 5. Transfer the Pokémon back through HOME. Check the destination-game moves before saving the transfer, and verify the move order and PP again in BDSP.
 6. Put the starter in the first party slot and restore its HP and PP.
-7. Return to the Jubilife Pokémon Center PC position where the tutorial ended, then select **Main Story**.
+7. Deposit the extra Pokémon in **Box 1, slot 1** (the top-left slot). It must not be fainted. Leave **Box 1** selected so the program can withdraw it for required double battles.
+8. Return to the Jubilife Pokémon Center PC position where the tutorial ended, then select **Main Story**.
 
 # Options
 
@@ -99,7 +100,7 @@ Choose **Turtwig**, **Chimchar**, or **Piplup** to match the starter selected on
 
 ## Help Mode
 
-- **Outside Help:** Use a starter trained in another game through HOME, following the team setup above. Match the Pokémon and Attack 1–4 selections to your lead Pokémon's actual move order.
+- **Outside Help:** Use a starter trained in another game through HOME, following the team setup above. Use the Starter Pokemon selection that matches your starter and arrange its moves in the order listed above.
 - **No Outside Help:** Play without transferring your team to another game for training.
 
 ## Notifications
