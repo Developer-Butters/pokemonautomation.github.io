@@ -39,37 +39,74 @@ These will be set automatically during the tutorial. If starting later in the st
 
 For the outside-help route, use the starter obtained on the Autostory save file. Train and evolve that same Pokémon through HOME, then return it to its original save so that it will obey you regardless of your badge count.
 
-Your starter should be fully evolved, level 100, and in the first party slot. Set its moves in the following order and begin with full HP and PP. The PP values below are the base amounts, before PP Ups. Slots 1–4 are a contact attack, a non-contact attack, a spread attack, and the highest-PP backup in the set, respectively.
+Your starter should be fully evolved, level 100 and have the IV/EV spread listed below. When it returns to BDSP, place it in the first party slot and box the other pokemon in the first slot of box one. This is important for later in the story.
+
+These are the current Outside Help preparation targets, not experimentally established minimum stats. Torterra and Empoleon still need live League verification. The earlier Torterra battle plan also assumed a Jolly nature.
+
+An IV target of 31 can be met naturally or through Hyper Training. Torterra does not need a specific Special Attack IV for this moveset. [About Hyper Training](https://www.pokemon.com/us/strategy/train-raid-and-hatch-pokemon-to-breed-victories-in-pokemon-sword-and-pokemon-shield).
 
 ## Torterra
 
-1. Crunch — 15 PP
-2. Seed Bomb — 15 PP
-3. Earthquake — 10 PP
-4. Razor Leaf — 25 PP
+| Stat | IV target | EVs |
+|---|---|---|
+| HP | 31 | 4 |
+| Attack | 31 | 252 |
+| Defense | 31 | 0 |
+| Special Attack | Any | 0 |
+| Special Defense | 31 | 0 |
+| Speed | 31 | 252 |
+
+**Moves, in slot order:**
+
+1. Crunch
+2. Seed Bomb
+3. Earthquake
+4. Razor Leaf
 
 ## Infernape
 
-1. Thunder Punch — 15 PP
-2. Flamethrower — 15 PP
-3. Earthquake — 10 PP
-4. Brick Break — 15 PP
+| Stat | IV target | EVs |
+|---|---|---|
+| HP | 31 | 4 |
+| Attack | 31 | 252 |
+| Defense | 31 | 0 |
+| Special Attack | 31 | 252 |
+| Special Defense | 31 | 0 |
+| Speed | 31 | 0 |
+
+**Moves, in slot order:**
+
+1. Thunder Punch
+2. Flamethrower
+3. Earthquake
+4. Brick Break
 
 ## Empoleon
 
-1. Drill Peck — 20 PP
-2. Ice Beam — 10 PP
-3. Surf — 15 PP
-4. Metal Claw — 35 PP
+| Stat | IV target | EVs |
+|---|---|---|
+| HP | 31 | 4 |
+| Attack | 31 | 252 |
+| Defense | 31 | 0 |
+| Special Attack | 31 | 252 |
+| Special Defense | 31 | 0 |
+| Speed | 31 | 0 |
+
+**Moves, in slot order:**
+
+1. Drill Peck
+2. Ice Beam
+3. Surf
+4. Metal Claw
 
 ### How to prepare the starter
 
 1. After the tutorial, deposit your starter in the PC. Keep the second Pokémon caught during the tutorial in your party.
 2. Save and close BDSP, then use Pokémon HOME to transfer the starter to a compatible game where you can train it.
-3. Raise it to level 100 and evolve it fully. Give EXP Candy in stages so that both evolutions can occur.
+3. Raise it to level 100 and evolve it fully. Give EXP Candy in stages so that both evolutions can occur. Prepare the IV/EV spread listed for your starter above, correcting any EVs already gained during the tutorial before completing its training.
 4. Teach the moves listed above in the specified slot order.
-5. Transfer the Pokémon back through HOME. Check the destination-game moves before saving the transfer, and verify the move order and PP again in BDSP.
-6. Put the starter in the first party slot and restore its HP and PP.
+5. Transfer the Pokémon back through HOME. Check the destination-game moves before saving the transfer, and verify the move order again in BDSP.
+6. Put the starter in the first party slot and restore its HP.
 7. Deposit the extra Pokémon in **Box 1, slot 1** (the top-left slot). It must not be fainted. Leave **Box 1** selected so the program can withdraw it for required double battles.
 8. Return to the Jubilife Pokémon Center PC position where the tutorial ended, then select **Main Story**.
 
