@@ -96,7 +96,7 @@ Vitamin quantities assume you have reset existing EVs and are training in Scarle
 1. Drill Peck
 2. Ice Beam
 3. Surf
-4. Metal Claw
+4. Grass Knot (TM86)
 
 ### How to prepare the starter
 
